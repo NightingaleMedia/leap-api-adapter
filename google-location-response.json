@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "APT 1",
+          "short_name": "APT 1",
+          "types": ["subpremise"]
+        },
+        {
+          "long_name": "405",
+          "short_name": "405",
+          "types": ["street_number"]
+        },
+        {
+          "long_name": "Oak Street",
+          "short_name": "Oak St",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Old Mountain View",
+          "short_name": "Old Mountain View",
+          "types": ["neighborhood", "political"]
+        },
+        {
+          "long_name": "Mountain View",
+          "short_name": "Mountain View",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Santa Clara County",
+          "short_name": "Santa Clara County",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "California",
+          "short_name": "CA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "94041",
+          "short_name": "94041",
+          "types": ["postal_code"]
+        },
+        {
+          "long_name": "1948",
+          "short_name": "1948",
+          "types": ["postal_code_suffix"]
+        }
+      ],
+      "formatted_address": "405 Oak St APT 1, Mountain View, CA 94041, USA",
+      "geometry": {
+        "location": {
+          "lat": 37.3922815,
+          "lng": -122.0838662
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 37.39366348029149,
+            "lng": -122.0826031197085
+          },
+          "southwest": {
+            "lat": 37.39096551970849,
+            "lng": -122.0853010802915
+          }
+        }
+      },
+      "place_id": "ChIJZZZjS8uwj4AR9qEcF9iKo5c",
+      "types": ["subpremise"]
+    }
+  ],
+  "status": "OK"
+}

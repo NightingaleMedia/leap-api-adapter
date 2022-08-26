@@ -1,0 +1,888 @@
+{
+    "orgs": [
+        {
+            "org_id": "5f9a4b7d463fac1f42ca4e29",
+            "regions": [
+                {
+                    "region_id": "616de17af045340007b50a39",
+                    "sites": [
+                        {
+                            "MeterId": "7f5161e7-8c1f-4908-b246-a46e6f9cea6a",
+                            "OldPartnerRef": "Sonder43-4001-0171-0103-5",
+                            "NewPartnerRef": "9a66c82c-9c64-48f1-8ba7-6acf13733473",
+                            "Zen Org ID": "5f9a4b7d463fac1f42ca4e29",
+                            "Zen Region ID": "616de17af045340007b50a39",
+                            "Zen Org Name": "Sonder",
+                            "Utility": "CECONY",
+                            "Customer": "Alvaro Llanes",
+                            "ServiceAddress": "37 W 24th St, New York, NY 10010, USA",
+                            "Status": "Pending",
+                            "InZen": "TRUE",
+                            "Group ID": "616de17af045340007b50a39",
+                            "input_data": {
+                                "title": "Sonder 37 W 24th St, New York, NY 10010, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "37 W 24th St, New York, NY 10010, USA",
+                                    "country": "US",
+                                    "state": "NY",
+                                    "timezone": "America/New_York",
+                                    "utc_offset": -14400,
+                                    "lat": 40.74328149999999,
+                                    "lng": -73.99103099999999
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJ5Y32T6RZwokR54cLzlQIbl4",
+                                    "url": "",
+                                    "type": "subpremise"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "org_id": "624f5c27e456fc0007861f04",
+            "regions": [
+                {
+                    "region_id": "624f5c3fe456fc0007861f05",
+                    "sites": [
+                        {
+                            "MeterId": "f156b55c-6700-4cd8-9b6c-9aff2409ad9b",
+                            "OldPartnerRef": "Zeus4382453034-9",
+                            "NewPartnerRef": "ebacce76-84a1-4e73-9860-f617002fa629",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "2195 KLASSEN WAY, 95131 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "628e9e20c518e50007814d3d",
+                            "input_data": {
+                                "title": "Zeus Living 2195 Klassen Way, San Jose, CA 95131, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "2195 Klassen Way, San Jose, CA 95131, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3937891,
+                                    "lng": -121.9034052
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJrVu8blXJj4AR7V9IGHv-8j4",
+                                    "url": "",
+                                    "type": "street_address"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "3391103c-8553-4f4f-9dd1-16ef663fb9db",
+                            "OldPartnerRef": "Zeus1075335813-3",
+                            "NewPartnerRef": "0f1e7059-ae6a-4445-901f-7834bd269a10",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "600 CASTLE HILL RD, 94061 REDWOOD CITY, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62b9f53dfc2ed30008b693ea",
+                            "input_data": {
+                                "title": "Zeus Living 600 Castle Hill Rd, Redwood City, CA 94061, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "600 Castle Hill Rd, Redwood City, CA 94061, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.462779,
+                                    "lng": -122.2535575
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJFYDVL8Ojj4ARBmnoLNspbzE",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "bce7d840-2959-4c2c-b490-4e14423eec73",
+                            "OldPartnerRef": "Zeus6713150857-3",
+                            "NewPartnerRef": "55f74a3c-eab7-4750-b068-3c7ed207cae7",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "3115 TUSCOLANA WAY, 95125 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba9a0f856280008bcdf88",
+                            "input_data": {
+                                "title": "Zeus Living 3115 Tuscolana Way, San Jose, CA 95125, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "3115 Tuscolana Way, San Jose, CA 95125, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2779563,
+                                    "lng": -121.8769628
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJSUpr96IzjoARPHWKPoyXtaQ",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "ddde1e86-97a2-4199-9b39-fc587e78c1f9",
+                            "OldPartnerRef": "Zeus1075335813-3",
+                            "NewPartnerRef": "6ed7ca2c-b51b-480c-8aab-8516cddabfc5",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1423 ROSEMARY ST, 94025 MENLO PARK, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "625782975dc2410008ff79a0",
+                            "input_data": {
+                                "title": "Zeus Living 1423 Rosemary St, Menlo Park, CA 94025, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1423 Rosemary St, Menlo Park, CA 94025, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.4791826,
+                                    "lng": -122.1607901
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJJ0x92bq8j4ARj6xHRxvSerk",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "b795f467-80ee-4df5-b56c-51bcb80c091b",
+                            "OldPartnerRef": "Zeus9901660679-2",
+                            "NewPartnerRef": "5f422bcf-06a7-4b13-99ac-c1f2bcdd64c0",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "173 SUMMERWIND DR, 95035 MILPITAS, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62d739cb39f68700084484ee",
+                            "input_data": {
+                                "title": "Zeus Living 173 Summerwind Dr, Milpitas, CA 95035, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "173 Summerwind Dr, Milpitas, CA 95035, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.4465777,
+                                    "lng": -121.9121314
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJmwl7bMjIj4AR4ntZJ83O3Jg",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "849a5329-eb69-4a62-a9f1-4d56fa8ac676",
+                            "OldPartnerRef": "Zeus4508764196-0",
+                            "NewPartnerRef": "feb7a89e-0c6f-491c-82d4-4091146f9f1d",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "ZEUS LIVING INC",
+                            "ServiceAddress": "3038 MONTEVIDEO DR, 94583 SAN RAMON, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "625782785dc2410008ff799e",
+                            "input_data": {
+                                "title": "Zeus Living 3038 Montevideo Dr, San Ramon, CA 94583, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "3038 Montevideo Dr, San Ramon, CA 94583, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.7507392,
+                                    "lng": -121.9528659
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJO515NXftj4ARm193HKzxDUk",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "e140d77d-c030-4344-9da6-d602ef4962d2",
+                            "OldPartnerRef": "Zeus2842391873-0",
+                            "NewPartnerRef": "495a1599-c9fc-4b14-9956-d2c88529234f",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "4959 RAFTON DR, 95124 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62abab40f856280008bcdf94",
+                            "input_data": {
+                                "title": "Zeus Living 4959 Rafton Dr, San Jose, CA 95124, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "4959 Rafton Dr, San Jose, CA 95124, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2474802,
+                                    "lng": -121.911598
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJGeYFvw80joARZ161vsiiTos",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "2b43e9f8-0ad1-406f-adcf-cc18c6340d95",
+                            "OldPartnerRef": "Zeus2842391873-0",
+                            "NewPartnerRef": "7246a837-66b6-449c-b8f9-6ed782bc3739",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "37840 HICKORY ST, 94560 NEWARK, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "6257823f5dc2410008ff799c",
+                            "input_data": {
+                                "title": "Zeus Living 37840 Hickory St, Newark, CA 94560, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "37840 Hickory St, Newark, CA 94560, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.5163713,
+                                    "lng": -122.0509175
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJy-tdoMS-j4AR90Gp1NESrHc",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "a400979f-e8a1-419e-a106-86100e0dd661",
+                            "OldPartnerRef": "Zeus4382453034-9",
+                            "NewPartnerRef": "69abef89-246e-4f3e-986e-e8d9f213dd60",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "2715 LAVENDER TER, 95111 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "625772685dc2410008ff7998",
+                            "input_data": {
+                                "title": "Zeus Living 2715 Lavender Terrace, San Jose, CA 95111, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "2715 Lavender Terrace, San Jose, CA 95111, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2957343,
+                                    "lng": -121.8461533
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJZdQMFfgyjoARTimQMK0it5g",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "206e6b9f-9caa-4541-bdb5-143dc26ba231",
+                            "OldPartnerRef": "Zeus4382453034-9",
+                            "NewPartnerRef": "a81472aa-a1aa-4ebc-acec-0a32a55090a8",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "2700 LAVENDER TER, 95111 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba964f856280008bcdf86",
+                            "input_data": {
+                                "title": "Zeus Living 2700 Lavender Terrace, San Jose, CA 95111, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "2700 Lavender Terrace, San Jose, CA 95111, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2961553,
+                                    "lng": -121.8460977
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJARghOfgyjoARxpBw7X3YiOQ",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "124bb5e8-37dd-4ab1-8fc9-d467266fbf5d",
+                            "OldPartnerRef": "Zeus5734412930-9",
+                            "NewPartnerRef": "c7a4c8c7-952b-4f3c-aa46-60762f029ab8",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1421 SAN ANTONIO AVE, 94025 MENLO PARK, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba87cf856280008bcdf7e",
+                            "input_data": {
+                                "title": "Zeus Living 1421 San Antonio St, Menlo Park, CA 94025, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1421 San Antonio St, Menlo Park, CA 94025, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.4567972,
+                                    "lng": -122.187365
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJlT1TE6akj4ARBmbQ85esAcY",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "0c64532a-7923-4950-90f8-804d293cb2c2",
+                            "OldPartnerRef": "Zeus0706270689-5",
+                            "NewPartnerRef": "e7eb2fbb-b62a-4c19-ae8b-f5e65b15683f",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "3453 BAYWOOD TER APT 104, 94536 FREMONT, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba805f856280008bcdf7b",
+                            "input_data": {
+                                "title": "Zeus Living 3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.5636729,
+                                    "lng": -122.0072462
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJ381chpC_j4ARNBMNFYZfx0A",
+                                    "url": "",
+                                    "type": "subpremise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "cf56ba82-769e-4792-8705-aca364823aa1",
+                            "OldPartnerRef": "Zeus0706270689-5",
+                            "NewPartnerRef": "5b894876-8f2c-4165-9cd3-63c1fb46e6f4",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1099 WHITE PEACH WAY, 95133 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62abaa57f856280008bcdf90",
+                            "input_data": {
+                                "title": "Zeus Living 1099 White Peach Way, San Jose, CA 95133, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1099 White Peach Way, San Jose, CA 95133, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3818797,
+                                    "lng": -121.8638284
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJtRSVPUnMj4ARa9Ehx2M9m6w",
+                                    "url": "",
+                                    "type": "street_address"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "0a97b86e-72b0-4661-9df7-6e7399f5cf58",
+                            "OldPartnerRef": "Zeus3810798826-3",
+                            "NewPartnerRef": "89a1de5c-ac61-4cab-af4d-06d17e8141a7",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "5 HERITAGE PL, 94025 MENLO PARK, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba8f9f856280008bcdf82",
+                            "input_data": {
+                                "title": "Zeus Living 5 Heritage Pl, Menlo Park, CA 94025, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "5 Heritage Pl, Menlo Park, CA 94025, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.4678721,
+                                    "lng": -122.1563547
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJaU8dIV-7j4ARKur519F8zRs",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "a25e4eb6-4943-46a1-a1bf-bedb6aa092d7",
+                            "OldPartnerRef": "Zeus3810798826-3",
+                            "NewPartnerRef": "49adb51c-ae7f-47d8-8ad6-659d6f0b7d73",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1126 ROY AVE, 95125 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba8b1f856280008bcdf80",
+                            "input_data": {
+                                "title": "Zeus Living 1126 Roy Ave, San Jose, CA 95125, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1126 Roy Ave, San Jose, CA 95125, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2879197,
+                                    "lng": -121.887768
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJ817W3nAzjoARNkruMtbog6U",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "7045b7c8-5177-4271-94cf-30d64669b16d",
+                            "OldPartnerRef": "Zeus1763174207-3",
+                            "NewPartnerRef": "d3b00c95-60e1-42ec-8877-0065c6fcf766",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1595 TIMBER CREEK DR, 95131 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62a947138371a7000716ff97",
+                            "input_data": {
+                                "title": "Zeus Living 1595 Timber Creek Dr, San Jose, CA 95131, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1595 Timber Creek Dr, San Jose, CA 95131, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3928973,
+                                    "lng": -121.8765644
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJpTkP5CLMj4ARdcGvDomSJm8",
+                                    "url": "",
+                                    "type": "street_address"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "adb54b8f-6bdd-4df1-993f-f4a24066b1dd",
+                            "OldPartnerRef": "Zeus9901660679-2",
+                            "NewPartnerRef": "4900f855-bed4-4bd4-ad07-37031f39612e",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "411 PORT ROYAL AVE, 94404 FOSTER CITY, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba9fdf856280008bcdf8c",
+                            "input_data": {
+                                "title": "Zeus Living 411 Port Royal Ave, Foster City, CA 94404, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "411 Port Royal Ave, Foster City, CA 94404, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.5437091,
+                                    "lng": -122.2742059
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJB_hdJi-fj4ARBXWRG670_nk",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "41f6d5ae-a356-4fd1-900b-9ebda1a1e4a9",
+                            "OldPartnerRef": "Zeus5734412930-9",
+                            "NewPartnerRef": "efa7336e-a2d1-4f4b-8ba4-36d018bbf6d9",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "818 W REMINGTON DR, 94087 SUNNYVALE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62bf39d0fc2ed30008b69450",
+                            "input_data": {
+                                "title": "Zeus Living 818 W Remington Dr, Sunnyvale, CA 94087, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "818 W Remington Dr, Sunnyvale, CA 94087, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3592041,
+                                    "lng": -122.0471214
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJkcwBfoW2j4AR7bKM7VxPdmQ",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "839b6dea-bb3c-4ca5-a695-8d4f46d107d4",
+                            "OldPartnerRef": "Zeus9901660679-2",
+                            "NewPartnerRef": "9ecaa433-63ed-4e0f-9eac-0d03bd8d9ec2",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "36226 CRYSTAL SPRINGS DR, 94560 NEWARK, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62ababb7f856280008bcdf98",
+                            "input_data": {
+                                "title": "Zeus Living 36226 Crystal Springs Dr, Newark, CA 94560, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "36226 Crystal Springs Dr, Newark, CA 94560, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.53410530000001,
+                                    "lng": -122.0592639
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJIddulPS-j4ARlW8Tr4gScxU",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "09d8e8b1-edd3-4835-bc6e-d4d2d926be02",
+                            "OldPartnerRef": "Zeus8444118105-8",
+                            "NewPartnerRef": "b0dd8ead-cf1d-42d5-ba72-35bec73bb648",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "723 LAKEHAVEN DR, 94089 SUNNYVALE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62abaac2f856280008bcdf92",
+                            "input_data": {
+                                "title": "Zeus Living 723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3962356,
+                                    "lng": -122.0051784
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJ2T2LGzK2j4ARc7evkfhfk04",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "62bc7e77-790b-412e-9d21-597678226278",
+                            "OldPartnerRef": "Zeus9006471299-6",
+                            "NewPartnerRef": "303007ca-dfe1-464f-96ff-1e7e404e882f",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "ZEUS LIVING INC",
+                            "ServiceAddress": "7287 SLEEPY CREEK DR, 95120 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba9d1f856280008bcdf8a",
+                            "input_data": {
+                                "title": "Zeus Living 7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.1988697,
+                                    "lng": -121.8277703
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJiQhfVREwjoARd9ZKxpgCCOA",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "164b8888-2807-4e2f-aed8-db979f5e5055",
+                            "OldPartnerRef": "Zeus9901660679-2",
+                            "NewPartnerRef": "4b64819b-6380-492f-ae6c-a738be5a92a6",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "10161 DANUBE DR, 95014 CUPERTINO, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62bf3c62fc2ed30008b69452",
+                            "input_data": {
+                                "title": "Zeus Living 10161 Danube Dr, Cupertino, CA 95014, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "10161 Danube Dr, Cupertino, CA 95014, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.320754,
+                                    "lng": -122.026269
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJb2ikJKa1j4ARv8kEY7Z0Ssw",
+                                    "url": "",
+                                    "type": "street_address"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "25d715fb-dd06-44b7-82bb-6de10cbc4e95",
+                            "OldPartnerRef": "Zeus6713150857-3",
+                            "NewPartnerRef": "a6ac3b81-2189-49df-8207-28f699f058e1",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1030 CORVETTE DR, 95129 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62bf3948fc2ed30008b6944e",
+                            "input_data": {
+                                "title": "Zeus Living 1030 Corvette Dr, San Jose, CA 95129, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1030 Corvette Dr, San Jose, CA 95129, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3086616,
+                                    "lng": -122.0168148
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJAbo23BK1j4ARGJDY9iiBZpE",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "a6d37897-c092-4a41-bf7f-773dabdfde2b",
+                            "OldPartnerRef": "Zeus9181460785-8",
+                            "NewPartnerRef": "495a0517-813b-4f60-939e-a475fb08826c",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "701 CASTLE HILL RD, 94061 REDWOOD CITY, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62aba93bf856280008bcdf84",
+                            "input_data": {
+                                "title": "Zeus Living 701 Castle Hill Rd, Redwood City, CA 94061, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "701 Castle Hill Rd, Redwood City, CA 94061, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.4617781,
+                                    "lng": -122.2526048
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJiVsg6MKjj4ARmnEUuUjw7uc",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "1cfd5cd2-7e91-4a28-a183-0e0dbfd6a923",
+                            "OldPartnerRef": "Zeus9181460785-8",
+                            "NewPartnerRef": "e722895c-fc05-4a15-aaf9-6e072766e91e",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "6275 COTTLE RD, 95123 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62abaa2bf856280008bcdf8e",
+                            "input_data": {
+                                "title": "Zeus Living 6275 Cottle Rd, San Jose, CA 95123, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "6275 Cottle Rd, San Jose, CA 95123, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.2310272,
+                                    "lng": -121.8041671
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJkSeEvCwujoARDFvCnqSd_LI",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        },
+                        {
+                            "MeterId": "5997c731-41a0-4a9b-8988-ca17825e3156",
+                            "OldPartnerRef": "Zeus3810798826-3",
+                            "NewPartnerRef": "c130fe65-062f-4f17-a92e-44ae90eeeb4c",
+                            "Zen Org ID": "624f5c27e456fc0007861f04",
+                            "Zen Region ID": "624f5c3fe456fc0007861f05",
+                            "Zen Org Name": "Zeus Living",
+                            "Utility": "PGE",
+                            "Customer": "EGOMOTION CORP",
+                            "ServiceAddress": "1339 MUENCH CT, 95131 SAN JOSE, CA, US",
+                            "Status": "Active",
+                            "InZen": "TRUE",
+                            "Group ID": "62bf37bcfc2ed30008b6944c",
+                            "input_data": {
+                                "title": "Zeus Living 1339 Muench Ct, San Jose, CA 95131, USA",
+                                "install_code": false,
+                                "location": {
+                                    "address": "1339 Muench Ct, San Jose, CA 95131, USA",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "timezone": "America/Los_Angeles",
+                                    "utc_offset": -25200,
+                                    "lat": 37.3784526,
+                                    "lng": -121.8811872
+                                },
+                                "googlePlace": {
+                                    "placeId": "ChIJV3Od-mrMj4ARN4oSplikuH4",
+                                    "url": "",
+                                    "type": "premise"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

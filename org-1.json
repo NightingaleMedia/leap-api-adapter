@@ -1,0 +1,472 @@
+{
+    "624f5c3fe456fc0007861f05": [
+        {
+            "title": "Zeus Living 2195 Klassen Way, San Jose, CA 95131, USA",
+            "install_code": false,
+            "location": {
+                "address": "2195 Klassen Way, San Jose, CA 95131, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3937891,
+                "lng": -121.9034052
+            },
+            "googlePlace": {
+                "placeId": "ChIJrVu8blXJj4AR7V9IGHv-8j4",
+                "url": "",
+                "type": "street_address"
+            }
+        },
+        {
+            "title": "Zeus Living 600 Castle Hill Rd, Redwood City, CA 94061, USA",
+            "install_code": false,
+            "location": {
+                "address": "600 Castle Hill Rd, Redwood City, CA 94061, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.462779,
+                "lng": -122.2535575
+            },
+            "googlePlace": {
+                "placeId": "ChIJFYDVL8Ojj4ARBmnoLNspbzE",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 3115 Tuscolana Way, San Jose, CA 95125, USA",
+            "install_code": false,
+            "location": {
+                "address": "3115 Tuscolana Way, San Jose, CA 95125, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2779563,
+                "lng": -121.8769628
+            },
+            "googlePlace": {
+                "placeId": "ChIJSUpr96IzjoARPHWKPoyXtaQ",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 1423 Rosemary St, Menlo Park, CA 94025, USA",
+            "install_code": false,
+            "location": {
+                "address": "1423 Rosemary St, Menlo Park, CA 94025, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.4791826,
+                "lng": -122.1607901
+            },
+            "googlePlace": {
+                "placeId": "ChIJJ0x92bq8j4ARj6xHRxvSerk",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 173 Summerwind Dr, Milpitas, CA 95035, USA",
+            "install_code": false,
+            "location": {
+                "address": "173 Summerwind Dr, Milpitas, CA 95035, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.4465777,
+                "lng": -121.9121314
+            },
+            "googlePlace": {
+                "placeId": "ChIJmwl7bMjIj4AR4ntZJ83O3Jg",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 3038 Montevideo Dr, San Ramon, CA 94583, USA",
+            "install_code": false,
+            "location": {
+                "address": "3038 Montevideo Dr, San Ramon, CA 94583, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.7507392,
+                "lng": -121.9528659
+            },
+            "googlePlace": {
+                "placeId": "ChIJO515NXftj4ARm193HKzxDUk",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 4959 Rafton Dr, San Jose, CA 95124, USA",
+            "install_code": false,
+            "location": {
+                "address": "4959 Rafton Dr, San Jose, CA 95124, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2474802,
+                "lng": -121.911598
+            },
+            "googlePlace": {
+                "placeId": "ChIJGeYFvw80joARZ161vsiiTos",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 37840 Hickory St, Newark, CA 94560, USA",
+            "install_code": false,
+            "location": {
+                "address": "37840 Hickory St, Newark, CA 94560, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.5163713,
+                "lng": -122.0509175
+            },
+            "googlePlace": {
+                "placeId": "ChIJy-tdoMS-j4AR90Gp1NESrHc",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 2715 Lavender Terrace, San Jose, CA 95111, USA",
+            "install_code": false,
+            "location": {
+                "address": "2715 Lavender Terrace, San Jose, CA 95111, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2957343,
+                "lng": -121.8461533
+            },
+            "googlePlace": {
+                "placeId": "ChIJZdQMFfgyjoARTimQMK0it5g",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 2700 Lavender Terrace, San Jose, CA 95111, USA",
+            "install_code": false,
+            "location": {
+                "address": "2700 Lavender Terrace, San Jose, CA 95111, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2961553,
+                "lng": -121.8460977
+            },
+            "googlePlace": {
+                "placeId": "ChIJARghOfgyjoARxpBw7X3YiOQ",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 1421 San Antonio St, Menlo Park, CA 94025, USA",
+            "install_code": false,
+            "location": {
+                "address": "1421 San Antonio St, Menlo Park, CA 94025, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.4567972,
+                "lng": -122.187365
+            },
+            "googlePlace": {
+                "placeId": "ChIJlT1TE6akj4ARBmbQ85esAcY",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
+            "install_code": false,
+            "location": {
+                "address": "3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.5636729,
+                "lng": -122.0072462
+            },
+            "googlePlace": {
+                "placeId": "ChIJ381chpC_j4ARNBMNFYZfx0A",
+                "url": "",
+                "type": "subpremise"
+            }
+        },
+        {
+            "title": "Zeus Living 1099 White Peach Way, San Jose, CA 95133, USA",
+            "install_code": false,
+            "location": {
+                "address": "1099 White Peach Way, San Jose, CA 95133, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3818797,
+                "lng": -121.8638284
+            },
+            "googlePlace": {
+                "placeId": "ChIJtRSVPUnMj4ARa9Ehx2M9m6w",
+                "url": "",
+                "type": "street_address"
+            }
+        },
+        {
+            "title": "Zeus Living 5 Heritage Pl, Menlo Park, CA 94025, USA",
+            "install_code": false,
+            "location": {
+                "address": "5 Heritage Pl, Menlo Park, CA 94025, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.4678721,
+                "lng": -122.1563547
+            },
+            "googlePlace": {
+                "placeId": "ChIJaU8dIV-7j4ARKur519F8zRs",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 1126 Roy Ave, San Jose, CA 95125, USA",
+            "install_code": false,
+            "location": {
+                "address": "1126 Roy Ave, San Jose, CA 95125, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2879197,
+                "lng": -121.887768
+            },
+            "googlePlace": {
+                "placeId": "ChIJ817W3nAzjoARNkruMtbog6U",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 1595 Timber Creek Dr, San Jose, CA 95131, USA",
+            "install_code": false,
+            "location": {
+                "address": "1595 Timber Creek Dr, San Jose, CA 95131, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3928973,
+                "lng": -121.8765644
+            },
+            "googlePlace": {
+                "placeId": "ChIJpTkP5CLMj4ARdcGvDomSJm8",
+                "url": "",
+                "type": "street_address"
+            }
+        },
+        {
+            "title": "Zeus Living 411 Port Royal Ave, Foster City, CA 94404, USA",
+            "install_code": false,
+            "location": {
+                "address": "411 Port Royal Ave, Foster City, CA 94404, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.5437091,
+                "lng": -122.2742059
+            },
+            "googlePlace": {
+                "placeId": "ChIJB_hdJi-fj4ARBXWRG670_nk",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 818 W Remington Dr, Sunnyvale, CA 94087, USA",
+            "install_code": false,
+            "location": {
+                "address": "818 W Remington Dr, Sunnyvale, CA 94087, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3592041,
+                "lng": -122.0471214
+            },
+            "googlePlace": {
+                "placeId": "ChIJkcwBfoW2j4AR7bKM7VxPdmQ",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 36226 Crystal Springs Dr, Newark, CA 94560, USA",
+            "install_code": false,
+            "location": {
+                "address": "36226 Crystal Springs Dr, Newark, CA 94560, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.53410530000001,
+                "lng": -122.0592639
+            },
+            "googlePlace": {
+                "placeId": "ChIJIddulPS-j4ARlW8Tr4gScxU",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
+            "install_code": false,
+            "location": {
+                "address": "723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3962356,
+                "lng": -122.0051784
+            },
+            "googlePlace": {
+                "placeId": "ChIJ2T2LGzK2j4ARc7evkfhfk04",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
+            "install_code": false,
+            "location": {
+                "address": "7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.1988697,
+                "lng": -121.8277703
+            },
+            "googlePlace": {
+                "placeId": "ChIJiQhfVREwjoARd9ZKxpgCCOA",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 10161 Danube Dr, Cupertino, CA 95014, USA",
+            "install_code": false,
+            "location": {
+                "address": "10161 Danube Dr, Cupertino, CA 95014, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.320754,
+                "lng": -122.026269
+            },
+            "googlePlace": {
+                "placeId": "ChIJb2ikJKa1j4ARv8kEY7Z0Ssw",
+                "url": "",
+                "type": "street_address"
+            }
+        },
+        {
+            "title": "Zeus Living 1030 Corvette Dr, San Jose, CA 95129, USA",
+            "install_code": false,
+            "location": {
+                "address": "1030 Corvette Dr, San Jose, CA 95129, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3086616,
+                "lng": -122.0168148
+            },
+            "googlePlace": {
+                "placeId": "ChIJAbo23BK1j4ARGJDY9iiBZpE",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 701 Castle Hill Rd, Redwood City, CA 94061, USA",
+            "install_code": false,
+            "location": {
+                "address": "701 Castle Hill Rd, Redwood City, CA 94061, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.4617781,
+                "lng": -122.2526048
+            },
+            "googlePlace": {
+                "placeId": "ChIJiVsg6MKjj4ARmnEUuUjw7uc",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 6275 Cottle Rd, San Jose, CA 95123, USA",
+            "install_code": false,
+            "location": {
+                "address": "6275 Cottle Rd, San Jose, CA 95123, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.2310272,
+                "lng": -121.8041671
+            },
+            "googlePlace": {
+                "placeId": "ChIJkSeEvCwujoARDFvCnqSd_LI",
+                "url": "",
+                "type": "premise"
+            }
+        },
+        {
+            "title": "Zeus Living 1339 Muench Ct, San Jose, CA 95131, USA",
+            "install_code": false,
+            "location": {
+                "address": "1339 Muench Ct, San Jose, CA 95131, USA",
+                "country": "US",
+                "state": "CA",
+                "timezone": "America/Los_Angeles",
+                "utc_offset": -25200,
+                "lat": 37.3784526,
+                "lng": -121.8811872
+            },
+            "googlePlace": {
+                "placeId": "ChIJV3Od-mrMj4ARN4oSplikuH4",
+                "url": "",
+                "type": "premise"
+            }
+        }
+    ]
+}
