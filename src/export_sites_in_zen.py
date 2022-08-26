@@ -10,7 +10,7 @@ def filter_in_zen(site_list: list):
 
 
 if __name__ == "__main__":
-    f = open("leap_export.json")
+    f = open("mock_leap_export.json")
     data = json.load(f)
     in_zen = filter_in_zen(data["data"])
     # filter by org

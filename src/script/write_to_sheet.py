@@ -50,7 +50,7 @@ def write_to_sheet(final_list: list):
                 formatted_address,
                 location["InZen"] == "TRUE",
                 location["Zen Region ID"] or "",
-                location["Group ID"] or "",
+                location["Zen Group ID"] or "",
             ]
         )
     all_values = []
