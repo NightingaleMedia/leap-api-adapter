@@ -63,7 +63,9 @@ def format_for_zen(org_title: str, loc_data, tz_data):
                 # 'country': 'US',
                 # 'state': 'CA', # get administrative_area_level_1 from address_components
                 "timezone": tz_data["timeZoneId"],
-                "utc_offset": (tz_data["rawOffset"] + tz_data["dstOffset"]) / 60 / 60,
+                "utc_offset": int(
+                    (tz_data["rawOffset"] + tz_data["dstOffset"]) / 60 / 60
+                ),
                 "lat": loc_data["geometry"]["location"]["lat"],
                 "lng": loc_data["geometry"]["location"]["lng"],
             },
