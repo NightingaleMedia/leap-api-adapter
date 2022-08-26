@@ -40,7 +40,6 @@ def format_for_zen(org_title: str, loc_data, tz_data):
     response: dict = dict(
         {
             "title": org_title + " " + loc_data["formatted_address"],
-            "install_code": False,
             "location": {
                 "address": loc_data["formatted_address"],
                 "country": list(
