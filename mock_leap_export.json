@@ -1,36 +1,5 @@
 {
-    "errors": [
-        {
-            "MeterId": "56a2cf8d-a12c-4a82-bafb-545baae687e4",
-            "OldPartnerRef": "Sonder7646 477 631 5",
-            "NewPartnerRef": "78762202-9c2d-4bf2-812c-9eadd7301ae8",
-            "Zen Org ID": "6307df751d0adf00094738d9",
-            "Zen Region ID": "6307df9b1d0adf00094738db",
-            "Zen Org Name": "LeapTest_Sonder",
-            "Utility": "SDGE",
-            "Customer": "SONDER USA INC",
-            "ServiceAddress": "320 W CEDAR ST 502, 92101 SAN DIEGO, CA, US",
-            "Status": "Active",
-            "InZen": "FALSE",
-            "Group ID": null,
-            "input_data": null
-        },
-        {
-            "MeterId": "d4b70e7e-17af-4f1f-ae5e-8e7d62fd22d6",
-            "OldPartnerRef": "Sonder700670584080",
-            "NewPartnerRef": "6a794bfc-331c-4173-abb3-fa35d310678b",
-            "Zen Org ID": "6307df751d0adf00094738d9",
-            "Zen Region ID": "6307df9b1d0adf00094738db",
-            "Zen Org Name": "LeapTest_Sonder",
-            "Utility": "SCE",
-            "Customer": "SONDER USA INC",
-            "ServiceAddress": "3900 W CENTURY BLVD, 90303 INGLEWOOD, CA, US",
-            "Status": "Active",
-            "InZen": "FALSE",
-            "Group ID": null,
-            "input_data": null
-        }
-    ],
+    "errors": [],
     "data": [
         {
             "MeterId": "f156b55c-6700-4cd8-9b6c-9aff2409ad9b",
@@ -44,7 +13,7 @@
             "ServiceAddress": "2195 KLASSEN WAY, 95131 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2195 Klassen Way, San Jose, CA 95131, USA",
                 "location": {
@@ -75,7 +44,7 @@
             "ServiceAddress": "600 CASTLE HILL RD, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 600 Castle Hill Rd, Redwood City, CA 94061, USA",
                 "location": {
@@ -106,7 +75,7 @@
             "ServiceAddress": "3115 TUSCOLANA WAY, 95125 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3115 Tuscolana Way, San Jose, CA 95125, USA",
                 "location": {
@@ -137,7 +106,7 @@
             "ServiceAddress": "1423 ROSEMARY ST, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1423 Rosemary St, Menlo Park, CA 94025, USA",
                 "location": {
@@ -168,7 +137,7 @@
             "ServiceAddress": "173 SUMMERWIND DR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 173 Summerwind Dr, Milpitas, CA 95035, USA",
                 "location": {
@@ -199,7 +168,7 @@
             "ServiceAddress": "3038 MONTEVIDEO DR, 94583 SAN RAMON, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3038 Montevideo Dr, San Ramon, CA 94583, USA",
                 "location": {
@@ -230,7 +199,7 @@
             "ServiceAddress": "4959 RAFTON DR, 95124 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4959 Rafton Dr, San Jose, CA 95124, USA",
                 "location": {
@@ -261,7 +230,7 @@
             "ServiceAddress": "37840 HICKORY ST, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37840 Hickory St, Newark, CA 94560, USA",
                 "location": {
@@ -292,7 +261,7 @@
             "ServiceAddress": "2715 LAVENDER TER, 95111 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2715 Lavender Terrace, San Jose, CA 95111, USA",
                 "location": {
@@ -323,7 +292,7 @@
             "ServiceAddress": "2700 LAVENDER TER, 95111 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2700 Lavender Terrace, San Jose, CA 95111, USA",
                 "location": {
@@ -354,7 +323,7 @@
             "ServiceAddress": "1421 SAN ANTONIO AVE, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1421 San Antonio St, Menlo Park, CA 94025, USA",
                 "location": {
@@ -385,7 +354,7 @@
             "ServiceAddress": "3453 BAYWOOD TER APT 104, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
                 "location": {
@@ -416,7 +385,7 @@
             "ServiceAddress": "1099 WHITE PEACH WAY, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1099 White Peach Way, San Jose, CA 95133, USA",
                 "location": {
@@ -447,7 +416,7 @@
             "ServiceAddress": "5 HERITAGE PL, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5 Heritage Pl, Menlo Park, CA 94025, USA",
                 "location": {
@@ -478,7 +447,7 @@
             "ServiceAddress": "1126 ROY AVE, 95125 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1126 Roy Ave, San Jose, CA 95125, USA",
                 "location": {
@@ -509,7 +478,7 @@
             "ServiceAddress": "1595 TIMBER CREEK DR, 95131 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1595 Timber Creek Dr, San Jose, CA 95131, USA",
                 "location": {
@@ -540,7 +509,7 @@
             "ServiceAddress": "411 PORT ROYAL AVE, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 411 Port Royal Ave, Foster City, CA 94404, USA",
                 "location": {
@@ -571,7 +540,7 @@
             "ServiceAddress": "818 W REMINGTON DR, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 818 W Remington Dr, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -602,7 +571,7 @@
             "ServiceAddress": "36226 CRYSTAL SPRINGS DR, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 36226 Crystal Springs Dr, Newark, CA 94560, USA",
                 "location": {
@@ -633,7 +602,7 @@
             "ServiceAddress": "723 LAKEHAVEN DR, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -664,7 +633,7 @@
             "ServiceAddress": "7287 SLEEPY CREEK DR, 95120 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
                 "location": {
@@ -695,7 +664,7 @@
             "ServiceAddress": "10161 DANUBE DR, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10161 Danube Dr, Cupertino, CA 95014, USA",
                 "location": {
@@ -726,7 +695,7 @@
             "ServiceAddress": "1030 CORVETTE DR, 95129 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1030 Corvette Dr, San Jose, CA 95129, USA",
                 "location": {
@@ -757,7 +726,7 @@
             "ServiceAddress": "701 CASTLE HILL RD, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 701 Castle Hill Rd, Redwood City, CA 94061, USA",
                 "location": {
@@ -788,7 +757,7 @@
             "ServiceAddress": "6275 COTTLE RD, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 6275 Cottle Rd, San Jose, CA 95123, USA",
                 "location": {
@@ -819,7 +788,7 @@
             "ServiceAddress": "1339 MUENCH CT, 95131 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1339 Muench Ct, San Jose, CA 95131, USA",
                 "location": {
@@ -850,7 +819,7 @@
             "ServiceAddress": "37 W 24th St, New York, NY 10010, USA",
             "Status": "Pending",
             "InZen": "TRUE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 37 W 24th St, New York, NY 10010, USA",
                 "location": {
@@ -881,7 +850,7 @@
             "ServiceAddress": "1193 MORENA BLVD, 92110 SAN DIEGO, CA, US",
             "Status": "Pending",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1193 Morena Blvd, San Diego, CA 92110, USA",
                 "location": {
@@ -912,7 +881,7 @@
             "ServiceAddress": "651 Union Street, Brooklyn, NY, USA",
             "Status": "Pending",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 651 Union St, Brooklyn, NY 11215, USA",
                 "location": {
@@ -943,7 +912,7 @@
             "ServiceAddress": "130 Duane Street, New York, NY, USA",
             "Status": "Pending",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 130 Duane St, New York, NY 10013, USA",
                 "location": {
@@ -974,7 +943,7 @@
             "ServiceAddress": "1141 Broadway, New York, NY 10001, USA",
             "Status": "Pending",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1141 Broadway, New York, NY 10001, USA",
                 "location": {
@@ -1005,7 +974,7 @@
             "ServiceAddress": "15 West 56th Street, New York, NY, USA",
             "Status": "Pending",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 15 W 56th St, New York, NY 10019, USA",
                 "location": {
@@ -1036,7 +1005,7 @@
             "ServiceAddress": "405 OAK ST APT 4, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 405 Oak St #4, Mountain View, CA 94041, USA",
                 "location": {
@@ -1067,7 +1036,7 @@
             "ServiceAddress": "725 SAN SIMEON ST, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 725 San Simeon St, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -1098,7 +1067,7 @@
             "ServiceAddress": "111 N RENGSTORFF AVE APT 157, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Building P, 111 N Rengstorff Ave #157, Mountain View, CA 94043, USA",
                 "location": {
@@ -1129,7 +1098,7 @@
             "ServiceAddress": "3645 HAVEN AVE APT 2203, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3645 Haven Ave #2203, Menlo Park, CA 94025, USA",
                 "location": {
@@ -1160,7 +1129,7 @@
             "ServiceAddress": "1112 DAVIS ST, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1112 Davis St, Redwood City, CA 94061, USA",
                 "location": {
@@ -1191,7 +1160,7 @@
             "ServiceAddress": "1188 ARABICA TER, 95126 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1188 Arabica Terrace, San Jose, CA 95126, USA",
                 "location": {
@@ -1222,7 +1191,7 @@
             "ServiceAddress": "716 ASTOR CT, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 716 Astor Ct, Mountain View, CA 94043, USA",
                 "location": {
@@ -1253,7 +1222,7 @@
             "ServiceAddress": "111 N RENGSTORFF AVE APT 154, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Building P, 111 N Rengstorff Ave #154, Mountain View, CA 94043, USA",
                 "location": {
@@ -1284,7 +1253,7 @@
             "ServiceAddress": "643 TURNBUCKLE DR UNIT 1912, 94063 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 643 Turnbuckle Dr UNIT 1912, Redwood City, CA 94063, USA",
                 "location": {
@@ -1315,7 +1284,7 @@
             "ServiceAddress": "701 N RENGSTORFF AVE APT 20, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 701 N Rengstorff Ave #20, Mountain View, CA 94043, USA",
                 "location": {
@@ -1346,7 +1315,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 212, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #212, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -1377,7 +1346,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 202, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #202, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -1408,7 +1377,7 @@
             "ServiceAddress": "1105 W OLIVE AVE APT 15, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1105 W Olive Ave #15, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -1439,7 +1408,7 @@
             "ServiceAddress": "2347 SUNNY VISTA DR, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2347 Sunny Vista Dr, San Jose, CA 95128, USA",
                 "location": {
@@ -1470,7 +1439,7 @@
             "ServiceAddress": "3033 LA SELVA ST APT 104, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3033 La Selva St #104, San Mateo, CA 94403, USA",
                 "location": {
@@ -1501,7 +1470,7 @@
             "ServiceAddress": "725 MODERN ICE DR, 95112 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 725 Modern Ice Dr, San Jose, CA 95112, USA",
                 "location": {
@@ -1532,7 +1501,7 @@
             "ServiceAddress": "37355 SEQUOIA RD, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37355 Sequoia Rd, Fremont, CA 94536, USA",
                 "location": {
@@ -1563,7 +1532,7 @@
             "ServiceAddress": "1295 HOMESTEAD AVE APT 26, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1295 Homestead Ave #26, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -1594,7 +1563,7 @@
             "ServiceAddress": "450 N MATHILDA AVE APT M305, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 450 N Mathilda Ave m305, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -1625,7 +1594,7 @@
             "ServiceAddress": "3061 LA SELVA ST APT 209 BLDG 6, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3061 La Selva St 209 6, San Mateo, CA 94403, USA",
                 "location": {
@@ -1656,7 +1625,7 @@
             "ServiceAddress": "1355 BROOKLINE LOOP APT 5302, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1355 Brookline Loop #5302, Pleasanton, CA 94566, USA",
                 "location": {
@@ -1687,7 +1656,7 @@
             "ServiceAddress": "2073 KIWI WALKWAY, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2073 Kiwi Walkway, San Jose, CA 95133, USA",
                 "location": {
@@ -1718,7 +1687,7 @@
             "ServiceAddress": "3685 NUTWOOD TER APT 213, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3685 Nutwood Terrace APT 213, Fremont, CA 94536, USA",
                 "location": {
@@ -1749,7 +1718,7 @@
             "ServiceAddress": "1070 CRESTA WAY APT 13 BLDG 6, 94903 SAN RAFAEL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1070 Cresta Way 13 6, San Rafael, CA 94903, USA",
                 "location": {
@@ -1780,7 +1749,7 @@
             "ServiceAddress": "20060 RODRIGUES AVE APT G, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20060 Rodrigues Ave g, Cupertino, CA 95014, USA",
                 "location": {
@@ -1811,7 +1780,7 @@
             "ServiceAddress": "450 N MATHILDA AVE APT Q305, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 450 N Mathilda Ave q305, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -1842,7 +1811,7 @@
             "ServiceAddress": "3889 ARTIST WALK CMN BLDG 2 UNIT 212, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3889 Artist Walk Common 2 212, Fremont, CA 94536, USA",
                 "location": {
@@ -1873,7 +1842,7 @@
             "ServiceAddress": "3061 LA SELVA ST APT 211 BLDG 6, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3061 La Selva St 211 6, San Mateo, CA 94403, USA",
                 "location": {
@@ -1904,7 +1873,7 @@
             "ServiceAddress": "1375 BROOKLINE LOOP APT 7303, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1375 Brookline Loop #7303, Pleasanton, CA 94566, USA",
                 "location": {
@@ -1935,7 +1904,7 @@
             "ServiceAddress": "450 N MATHILDA AVE APT O303, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 450 N Mathilda Ave o303, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -1966,7 +1935,7 @@
             "ServiceAddress": "3093 BROADWAY AVE UNIT 482, 94611 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3093 Broadway #482, Oakland, CA 94611, USA",
                 "location": {
@@ -1997,7 +1966,7 @@
             "ServiceAddress": "10095 S BLANEY AVE APT 116, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10095 S Blaney Ave #116, Cupertino, CA 95014, USA",
                 "location": {
@@ -2028,7 +1997,7 @@
             "ServiceAddress": "417 IRVING AVE, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 417 Irving Ave, San Jose, CA 95128, USA",
                 "location": {
@@ -2059,7 +2028,7 @@
             "ServiceAddress": "405 OAK ST APT 3, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 405 Oak St #3, Mountain View, CA 94041, USA",
                 "location": {
@@ -2090,7 +2059,7 @@
             "ServiceAddress": "1020 TICONDEROGA DR, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1020 Ticonderoga Dr, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -2121,7 +2090,7 @@
             "ServiceAddress": "37140 FREMONT BLVD BLDG 5 UNIT 300, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37140 Fremont Blvd 5 300, Fremont, CA 94536, USA",
                 "location": {
@@ -2152,7 +2121,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 421, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #421, Oakland, CA 94612, USA",
                 "location": {
@@ -2183,7 +2152,7 @@
             "ServiceAddress": "5822 CHARLOTTE DR APT 3222, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5822 Charlotte Dr #3222, San Jose, CA 95123, USA",
                 "location": {
@@ -2214,7 +2183,7 @@
             "ServiceAddress": "1295 HOMESTEAD AVE APT 21, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1295 Homestead Ave #21, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -2245,7 +2214,7 @@
             "ServiceAddress": "3889 ARTIST WALK CMN BLDG 2 UNIT 401, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3889 Artist Walk Common 2 401, Fremont, CA 94536, USA",
                 "location": {
@@ -2276,7 +2245,7 @@
             "ServiceAddress": "1190 MISSION ST APT 1615, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Trinity Place, 1190 Mission St #1615, San Francisco, CA 94103, USA",
                 "location": {
@@ -2307,7 +2276,7 @@
             "ServiceAddress": "114 SHARENE LN APT 36, 94596 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 114 Sharene Ln #36, Walnut Creek, CA 94596, USA",
                 "location": {
@@ -2338,7 +2307,7 @@
             "ServiceAddress": "4176 MARTINEZ CT, 94568 DUBLIN, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Tassajara Meadows I, 4176 Martinez Ct, Dublin, CA 94568, USA",
                 "location": {
@@ -2369,7 +2338,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 327, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #327, Oakland, CA 94612, USA",
                 "location": {
@@ -2400,7 +2369,7 @@
             "ServiceAddress": "800 N 8TH ST UNIT 129, 95112 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 800 N 8th St UNIT 129, San Jose, CA 95112, USA",
                 "location": {
@@ -2431,7 +2400,7 @@
             "ServiceAddress": "728 BOUNTY DR APT 2809, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 728 Bounty Dr #2809, Foster City, CA 94404, USA",
                 "location": {
@@ -2462,7 +2431,7 @@
             "ServiceAddress": "1295 HOMESTEAD AVE APT 16, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1295 Homestead Ave #16, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -2493,7 +2462,7 @@
             "ServiceAddress": "1087 BIGLEAF PL UNIT 107, 95131 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1087 Bigleaf Pl UNIT 107, San Jose, CA 95131, USA",
                 "location": {
@@ -2524,7 +2493,7 @@
             "ServiceAddress": "1365 BROOKLINE LOOP APT 6204, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1365 Brookline Loop #6204, Pleasanton, CA 94566, USA",
                 "location": {
@@ -2555,7 +2524,7 @@
             "ServiceAddress": "3014 LOS PRADOS ST APT 218 BLDG 4, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3014 Los Prados St 218 4, San Mateo, CA 94403, USA",
                 "location": {
@@ -2586,7 +2555,7 @@
             "ServiceAddress": "766 BOUNTY DR APT 6602, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 766 Bounty Dr #6602, Foster City, CA 94404, USA",
                 "location": {
@@ -2617,7 +2586,7 @@
             "ServiceAddress": "3149 CASA DE CAMPO APT 111, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3149 Casa De Campo Way #111, San Mateo, CA 94403, USA",
                 "location": {
@@ -2648,7 +2617,7 @@
             "ServiceAddress": "1355 BROOKLINE LOOP APT 5304, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1355 Brookline Loop #5304, Pleasanton, CA 94566, USA",
                 "location": {
@@ -2679,7 +2648,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 323, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #323, Oakland, CA 94612, USA",
                 "location": {
@@ -2710,7 +2679,7 @@
             "ServiceAddress": "6330 STONERIDGE MALL RD APT 308, 94588 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 6330 Stoneridge Mall Rd #308, Pleasanton, CA 94588, USA",
                 "location": {
@@ -2741,7 +2710,7 @@
             "ServiceAddress": "26 LA CORSO PL APT C, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 26 La Corso Pl c, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -2772,7 +2741,7 @@
             "ServiceAddress": "665 E OLIVE AVE APT 1, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 665 E Olive Ave #1, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -2803,7 +2772,7 @@
             "ServiceAddress": "3639 DICKENSON CMN, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3639 Dickenson Common, Fremont, CA 94538, USA",
                 "location": {
@@ -2834,7 +2803,7 @@
             "ServiceAddress": "3093 BROADWAY AVE UNIT 484, 94611 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3093 Broadway #484, Oakland, CA 94611, USA",
                 "location": {
@@ -2865,7 +2834,7 @@
             "ServiceAddress": "722 BOUNTY DR APT 2211, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 722 Bounty Dr #2211, Foster City, CA 94404, USA",
                 "location": {
@@ -2896,7 +2865,7 @@
             "ServiceAddress": "40025 FREMONT BLVD APT 802, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 40025 Fremont Blvd #802, Fremont, CA 94538, USA",
                 "location": {
@@ -2927,7 +2896,7 @@
             "ServiceAddress": "40049 FREMONT BLVD APT 709, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 40049 Fremont Blvd #709, Fremont, CA 94538, USA",
                 "location": {
@@ -2958,7 +2927,7 @@
             "ServiceAddress": "5239 CLAREMONT AVE UNIT 48, 94618 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5239 Claremont Ave #48, Oakland, CA 94618, USA",
                 "location": {
@@ -2989,7 +2958,7 @@
             "ServiceAddress": "1295 HOMESTEAD AVE APT 25, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1295 Homestead Ave #25, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -3020,7 +2989,7 @@
             "ServiceAddress": "923 FOLSOM ST APT 216, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 923 Folsom St #216, San Francisco, CA 94107, USA",
                 "location": {
@@ -3051,7 +3020,7 @@
             "ServiceAddress": "10149 S BLANEY AVE APT E, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10149 S Blaney Ave e, Cupertino, CA 95014, USA",
                 "location": {
@@ -3082,7 +3051,7 @@
             "ServiceAddress": "2320 WESTCLIFFE LN APT 10, 94597 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2320 Westcliffe Ln #10, Walnut Creek, CA 94597, USA",
                 "location": {
@@ -3113,7 +3082,7 @@
             "ServiceAddress": "718 BOUNTY DR APT 1811, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 718 Bounty Dr #1811, Foster City, CA 94404, USA",
                 "location": {
@@ -3144,7 +3113,7 @@
             "ServiceAddress": "114 SHARENE LN APT 19, 94596 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 114 Sharene Ln #19, Walnut Creek, CA 94596, USA",
                 "location": {
@@ -3175,7 +3144,7 @@
             "ServiceAddress": "114 SHARENE LN APT 31, 94596 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 114 Sharene Ln #31, Walnut Creek, CA 94596, USA",
                 "location": {
@@ -3206,7 +3175,7 @@
             "ServiceAddress": "130 SHARENE LN APT 30, 94596 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 130 Sharene Ln #30, Walnut Creek, CA 94596, USA",
                 "location": {
@@ -3237,7 +3206,7 @@
             "ServiceAddress": "130 SHARENE LN APT 53, 94596 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 130 Sharene Ln #53, Walnut Creek, CA 94596, USA",
                 "location": {
@@ -3268,7 +3237,7 @@
             "ServiceAddress": "266 PARK LAKE CIR APT D, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 266 Park Lake Cir d, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -3299,7 +3268,7 @@
             "ServiceAddress": "405 OAK ST APT 1, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 405 Oak St APT 1, Mountain View, CA 94041, USA",
                 "location": {
@@ -3330,7 +3299,7 @@
             "ServiceAddress": "1000 STERN LN, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1000 Stern Ln, Foster City, CA 94404, USA",
                 "location": {
@@ -3361,7 +3330,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 347, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #347, Oakland, CA 94612, USA",
                 "location": {
@@ -3392,7 +3361,7 @@
             "ServiceAddress": "1190 MISSION ST APT 2213, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Trinity Place, 1190 Mission St #2213, San Francisco, CA 94103, USA",
                 "location": {
@@ -3423,7 +3392,7 @@
             "ServiceAddress": "10745 N DE ANZA BLVD UNIT 210, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10745 N De Anza Blvd UNIT 210, Cupertino, CA 95014, USA",
                 "location": {
@@ -3454,7 +3423,7 @@
             "ServiceAddress": "3889 ARTIST WALK CMN BLDG 2 UNIT 301, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3889 Artist Walk Common 2 301, Fremont, CA 94536, USA",
                 "location": {
@@ -3485,7 +3454,7 @@
             "ServiceAddress": "3014 LOS PRADOS ST APT 106 BLDG 4, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3014 Los Prados St 106 4, San Mateo, CA 94403, USA",
                 "location": {
@@ -3516,7 +3485,7 @@
             "ServiceAddress": "1990 STRATTON CIR APT D, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1990 Stratton Cir d, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -3547,7 +3516,7 @@
             "ServiceAddress": "3061 LA SELVA ST APT 100 BLDG 6, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3061 La Selva St 100 6, San Mateo, CA 94403, USA",
                 "location": {
@@ -3578,7 +3547,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 1-601, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 1 601, San Francisco, CA 94107, USA",
                 "location": {
@@ -3609,7 +3578,7 @@
             "ServiceAddress": "73 PARC PLACE DR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 73 Parc Pl Dr, Milpitas, CA 95035, USA",
                 "location": {
@@ -3640,7 +3609,7 @@
             "ServiceAddress": "1335 BROOKLINE LOOP APT 3302, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Brookline Loop #3302, Pleasanton, CA 94566, USA",
                 "location": {
@@ -3671,7 +3640,7 @@
             "ServiceAddress": "3395 FOXTAIL TER, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3395 Foxtail Terrace, Fremont, CA 94536, USA",
                 "location": {
@@ -3702,7 +3671,7 @@
             "ServiceAddress": "777 BROADWAY APT 301, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 777 Broadway #301, San Francisco, CA 94133, USA",
                 "location": {
@@ -3733,7 +3702,7 @@
             "ServiceAddress": "38588 MARY TER, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 38588 Mary Terrace, Fremont, CA 94538, USA",
                 "location": {
@@ -3764,7 +3733,7 @@
             "ServiceAddress": "5239 CLAREMONT AVE UNIT 44, 94618 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5239 Claremont Ave #44, Oakland, CA 94618, USA",
                 "location": {
@@ -3795,7 +3764,7 @@
             "ServiceAddress": "754 BOUNTY DR APT 5402, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 754 Bounty Dr #5402, Foster City, CA 94404, USA",
                 "location": {
@@ -3826,7 +3795,7 @@
             "ServiceAddress": "128 E REED ST APT 6, 95112 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 128 E Reed St #6, San Jose, CA 95112, USA",
                 "location": {
@@ -3857,7 +3826,7 @@
             "ServiceAddress": "1190 MISSION ST APT 1713, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Trinity Place, 1190 Mission St #1713, San Francisco, CA 94103, USA",
                 "location": {
@@ -3888,7 +3857,7 @@
             "ServiceAddress": "777 BROADWAY APT 303, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 777 Broadway #303, San Francisco, CA 94133, USA",
                 "location": {
@@ -3919,7 +3888,7 @@
             "ServiceAddress": "1395 BROOKLINE LOOP APT 9102, 94566 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1395 Brookline Loop #9102, Pleasanton, CA 94566, USA",
                 "location": {
@@ -3950,7 +3919,7 @@
             "ServiceAddress": "2320 WESTCLIFFE LN APT 4, 94597 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2320 Westcliffe Ln #4, Walnut Creek, CA 94597, USA",
                 "location": {
@@ -3981,7 +3950,7 @@
             "ServiceAddress": "5239 CLAREMONT AVE UNIT 25, 94618 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5239 Claremont Ave #25, Oakland, CA 94618, USA",
                 "location": {
@@ -4012,7 +3981,7 @@
             "ServiceAddress": "1429 LAVENDER LOOP BLDG 13, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1429 Lavender Lp #13, Milpitas, CA 95035, USA",
                 "location": {
@@ -4043,7 +4012,7 @@
             "ServiceAddress": "1802 MASON ST, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1802 Mason St, San Francisco, CA 94133, USA",
                 "location": {
@@ -4074,7 +4043,7 @@
             "ServiceAddress": "5239 CLAREMONT AVE UNIT 34, 94618 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5239 Claremont Ave #34, Oakland, CA 94618, USA",
                 "location": {
@@ -4105,7 +4074,7 @@
             "ServiceAddress": "40073 FREMONT BLVD APT 627, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 40073 Fremont Blvd #627, Fremont, CA 94538, USA",
                 "location": {
@@ -4136,7 +4105,7 @@
             "ServiceAddress": "923 FOLSOM ST APT 314, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 923 Folsom St #314, San Francisco, CA 94107, USA",
                 "location": {
@@ -4167,7 +4136,7 @@
             "ServiceAddress": "20488 STEVENS CREEK BLVD APT 1519, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20488 Stevens Creek Blvd APT 1519, Cupertino, CA 95014, USA",
                 "location": {
@@ -4198,7 +4167,7 @@
             "ServiceAddress": "852 WHITE MOONSTONE LOOP, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 852 White Moonstone Loop, San Jose, CA 95123, USA",
                 "location": {
@@ -4229,7 +4198,7 @@
             "ServiceAddress": "20488 STEVENS CREEK BLVD APT 1317, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20488 Stevens Creek Blvd APT 1317, Cupertino, CA 95014, USA",
                 "location": {
@@ -4260,7 +4229,7 @@
             "ServiceAddress": "1295 HOMESTEAD AVE APT 5, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1295 Homestead Ave #5, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -4291,7 +4260,7 @@
             "ServiceAddress": "3093 LINA LN UNIT 4, 95136 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3093 Lina Ln UNIT 4, San Jose, CA 95136, USA",
                 "location": {
@@ -4322,7 +4291,7 @@
             "ServiceAddress": "1582 SHANGHAI CIR, 95131 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1582 Shanghai Cir, San Jose, CA 95131, USA",
                 "location": {
@@ -4353,7 +4322,7 @@
             "ServiceAddress": "1219 W MC KINLEY AVE APT 4, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1219 W McKinley Ave #4, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -4384,7 +4353,7 @@
             "ServiceAddress": "20900 HOMESTEAD RD APT 75J, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20900 Homestead Rd #75j, Cupertino, CA 95014, USA",
                 "location": {
@@ -4415,7 +4384,7 @@
             "ServiceAddress": "1804 LEE WAY, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1804 Lee Way, Milpitas, CA 95035, USA",
                 "location": {
@@ -4446,7 +4415,7 @@
             "ServiceAddress": "300 RAILWAY AVE UNIT 224, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 300 Railway Ave #224, Campbell, CA 95008, USA",
                 "location": {
@@ -4477,7 +4446,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 205, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #205, San Francisco, CA 94103, USA",
                 "location": {
@@ -4508,7 +4477,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 66G, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #66g, Cupertino, CA 95014, USA",
                 "location": {
@@ -4539,7 +4508,7 @@
             "ServiceAddress": "2743 LAVENDER TER, 95111 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2743 Lavender Terrace, San Jose, CA 95111, USA",
                 "location": {
@@ -4570,7 +4539,7 @@
             "ServiceAddress": "877 HEATHERSTONE WAY APT 401, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 877 Heatherstone Way #401, Mountain View, CA 94040, USA",
                 "location": {
@@ -4601,7 +4570,7 @@
             "ServiceAddress": "1285 62ND ST, 94608 EMERYVILLE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1285 62nd St, Emeryville, CA 94608, USA",
                 "location": {
@@ -4632,7 +4601,7 @@
             "ServiceAddress": "2099 PACIFIC BLVD APT 107, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2099 Pacific Blvd #107, San Mateo, CA 94403, USA",
                 "location": {
@@ -4663,7 +4632,7 @@
             "ServiceAddress": "1511 BLEECKER ST, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1511 Bleecker St, Milpitas, CA 95035, USA",
                 "location": {
@@ -4694,7 +4663,7 @@
             "ServiceAddress": "2099 PACIFIC BLVD APT 214, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2099 Pacific Blvd #214, San Mateo, CA 94403, USA",
                 "location": {
@@ -4725,7 +4694,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 65G, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #65g, Cupertino, CA 95014, USA",
                 "location": {
@@ -4756,7 +4725,7 @@
             "ServiceAddress": "300 RAILWAY AVE UNIT 113, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 300 Railway Ave #113, Campbell, CA 95008, USA",
                 "location": {
@@ -4787,7 +4756,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 203, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #203, San Francisco, CA 94103, USA",
                 "location": {
@@ -4818,7 +4787,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 204, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #204, San Francisco, CA 94103, USA",
                 "location": {
@@ -4849,7 +4818,7 @@
             "ServiceAddress": "337 S FREMONT ST APT 222, 94401 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 337 S Fremont St #222, San Mateo, CA 94401, USA",
                 "location": {
@@ -4880,7 +4849,7 @@
             "ServiceAddress": "300 RAILWAY AVE UNIT 424, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 300 Railway Ave #424, Campbell, CA 95008, USA",
                 "location": {
@@ -4911,7 +4880,7 @@
             "ServiceAddress": "2099 PACIFIC BLVD APT 113, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2099 Pacific Blvd #113, San Mateo, CA 94403, USA",
                 "location": {
@@ -4942,7 +4911,7 @@
             "ServiceAddress": "877 HEATHERSTONE WAY APT 203, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 877 Heatherstone Way #203, Mountain View, CA 94040, USA",
                 "location": {
@@ -4973,7 +4942,7 @@
             "ServiceAddress": "3371 BAYWOOD TER APT 313, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3371 Baywood Terrace APT 313, Fremont, CA 94536, USA",
                 "location": {
@@ -5004,7 +4973,7 @@
             "ServiceAddress": "354 CASTRO ST # B, 94114 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 354 Castro St b, San Francisco, CA 94114, USA",
                 "location": {
@@ -5035,7 +5004,7 @@
             "ServiceAddress": "1138 GENCO TER, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1138 Genco Terrace, San Jose, CA 95133, USA",
                 "location": {
@@ -5066,7 +5035,7 @@
             "ServiceAddress": "585 9TH ST UNIT 435, 94607 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 585 9th St UNIT 435, Oakland, CA 94607, USA",
                 "location": {
@@ -5097,7 +5066,7 @@
             "ServiceAddress": "1948 TRADAN DR, 95132 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1948 Tradan Dr, San Jose, CA 95132, USA",
                 "location": {
@@ -5128,7 +5097,7 @@
             "ServiceAddress": "262 AZEVEDO CIR, 95125 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 262 Azevedo Cir, San Jose, CA 95125, USA",
                 "location": {
@@ -5159,7 +5128,7 @@
             "ServiceAddress": "20200 LUCILLE AVE APT 88, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20200 Lucille Ave #88, Cupertino, CA 95014, USA",
                 "location": {
@@ -5190,7 +5159,7 @@
             "ServiceAddress": "240 ARRIBA DR APT 3, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 240 Arriba Dr #3, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -5221,7 +5190,7 @@
             "ServiceAddress": "1987 LAS ENCINAS CT, 95032 LOS GATOS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1987 Las Encinas Ct, Los Gatos, CA 95032, USA",
                 "location": {
@@ -5252,7 +5221,7 @@
             "ServiceAddress": "1492 VIA CANCION, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1492 V\u00eda Cancion, San Jose, CA 95128, USA",
                 "location": {
@@ -5283,7 +5252,7 @@
             "ServiceAddress": "350 RUTLAND AVE, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 350 Rutland Ave, San Jose, CA 95128, USA",
                 "location": {
@@ -5314,7 +5283,7 @@
             "ServiceAddress": "429 14TH ST APT 3, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 429 14th St #3, San Francisco, CA 94103, USA",
                 "location": {
@@ -5345,7 +5314,7 @@
             "ServiceAddress": "142 ALVAREZ COMMON, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 142 Alvarez Common, Milpitas, CA 95035, USA",
                 "location": {
@@ -5376,7 +5345,7 @@
             "ServiceAddress": "56 PARC PLACE DR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 56 Parc Pl Dr, Milpitas, CA 95035, USA",
                 "location": {
@@ -5407,7 +5376,7 @@
             "ServiceAddress": "140 S VAN NESS AVE UNIT 1010, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 140 S Van Ness Ave UNIT 1010, San Francisco, CA 94103, USA",
                 "location": {
@@ -5438,7 +5407,7 @@
             "ServiceAddress": "1423 S MILPITAS BLVD BLDG 3, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1423 S Milpitas Blvd #3, Milpitas, CA 95035, USA",
                 "location": {
@@ -5469,7 +5438,7 @@
             "ServiceAddress": "500 BRYANT ST UNIT 104, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 500 Bryant St UNIT 104, San Francisco, CA 94107, USA",
                 "location": {
@@ -5500,7 +5469,7 @@
             "ServiceAddress": "6660 BOLLINGER RD, 95129 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 6660 Bollinger Rd, San Jose, CA 95129, USA",
                 "location": {
@@ -5531,7 +5500,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 3-304, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 3 304, San Francisco, CA 94107, USA",
                 "location": {
@@ -5562,7 +5531,7 @@
             "ServiceAddress": "611 SAN LUISITO WAY APT 10, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 611 San Luisito Way #10, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -5593,7 +5562,7 @@
             "ServiceAddress": "888 7TH ST UNIT 237, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 888 7th St UNIT 237, San Francisco, CA 94107, USA",
                 "location": {
@@ -5624,7 +5593,7 @@
             "ServiceAddress": "923 FOLSOM ST APT 317, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 923 Folsom St #317, San Francisco, CA 94107, USA",
                 "location": {
@@ -5655,7 +5624,7 @@
             "ServiceAddress": "299 RHINE ST, 94014 DALY CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 299 Rhine St, Daly City, CA 94014, USA",
                 "location": {
@@ -5686,7 +5655,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 4-326, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 4 326, San Francisco, CA 94107, USA",
                 "location": {
@@ -5717,7 +5686,7 @@
             "ServiceAddress": "3454 BRIDGEWOOD TER APT 212, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3454 Bridgewood Terrace APT 212, Fremont, CA 94536, USA",
                 "location": {
@@ -5748,7 +5717,7 @@
             "ServiceAddress": "1162 HAZEL AVE, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1162 Hazel Ave, Campbell, CA 95008, USA",
                 "location": {
@@ -5779,7 +5748,7 @@
             "ServiceAddress": "601 4TH ST UNIT 107, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 601 4th St UNIT 107, San Francisco, CA 94107, USA",
                 "location": {
@@ -5810,7 +5779,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 1-903, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 1 903, San Francisco, CA 94107, USA",
                 "location": {
@@ -5841,7 +5810,7 @@
             "ServiceAddress": "1551 BEACH PARK BLVD, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1551 Beach Park Blvd, Foster City, CA 94404, USA",
                 "location": {
@@ -5872,7 +5841,7 @@
             "ServiceAddress": "657 GRAND AVE, 94080 SOUTH SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 657 Grand Ave, South San Francisco, CA 94080, USA",
                 "location": {
@@ -5903,7 +5872,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 2-602, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 2 602, San Francisco, CA 94107, USA",
                 "location": {
@@ -5934,7 +5903,7 @@
             "ServiceAddress": "5551 CHAPMAN DR, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5551 Chapman Dr, Newark, CA 94560, USA",
                 "location": {
@@ -5965,7 +5934,7 @@
             "ServiceAddress": "2795 LAVENDER TER, 95111 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2795 Lavender Terrace, San Jose, CA 95111, USA",
                 "location": {
@@ -5996,7 +5965,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 1-606, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 1 606, San Francisco, CA 94107, USA",
                 "location": {
@@ -6027,7 +5996,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 2-707, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 2 707, San Francisco, CA 94107, USA",
                 "location": {
@@ -6058,7 +6027,7 @@
             "ServiceAddress": "338 S FREMONT ST APT 107, 94401 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 338 S Fremont St #107, San Mateo, CA 94401, USA",
                 "location": {
@@ -6089,7 +6058,7 @@
             "ServiceAddress": "10560 S TANTAU AVE, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10560 S Tantau Ave, Cupertino, CA 95014, USA",
                 "location": {
@@ -6120,7 +6089,7 @@
             "ServiceAddress": "5822 CHARLOTTE DR APT 9305, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5822 Charlotte Dr #9305, San Jose, CA 95123, USA",
                 "location": {
@@ -6151,7 +6120,7 @@
             "ServiceAddress": "337 S FREMONT ST APT 218, 94401 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 337 S Fremont St #218, San Mateo, CA 94401, USA",
                 "location": {
@@ -6182,7 +6151,7 @@
             "ServiceAddress": "556 SAN MARTIN TR UNIT 4, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Sunnyvale, CA 94085, USA",
                 "location": {
@@ -6213,7 +6182,7 @@
             "ServiceAddress": "5822 CHARLOTTE DR APT 3220, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5822 Charlotte Dr #3220, San Jose, CA 95123, USA",
                 "location": {
@@ -6244,7 +6213,7 @@
             "ServiceAddress": "5822 CHARLOTTE DR APT 2307, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5822 Charlotte Dr #2307, San Jose, CA 95123, USA",
                 "location": {
@@ -6275,7 +6244,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 56F, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #56f, Cupertino, CA 95014, USA",
                 "location": {
@@ -6306,7 +6275,7 @@
             "ServiceAddress": "2071 MAHURON CIR, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2071 Mahuron Cir, San Jose, CA 95133, USA",
                 "location": {
@@ -6337,7 +6306,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 102, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #102, San Francisco, CA 94103, USA",
                 "location": {
@@ -6368,7 +6337,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 101, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #101, San Francisco, CA 94103, USA",
                 "location": {
@@ -6399,7 +6368,7 @@
             "ServiceAddress": "20900 HOMESTEAD RD APT 79C, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20900 Homestead Rd #79c, Cupertino, CA 95014, USA",
                 "location": {
@@ -6430,7 +6399,7 @@
             "ServiceAddress": "877 HEATHERSTONE WAY APT 714, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 877 Heatherstone Way #714, Mountain View, CA 94040, USA",
                 "location": {
@@ -6461,7 +6430,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 48F, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #48f, Cupertino, CA 95014, USA",
                 "location": {
@@ -6492,7 +6461,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 226, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #226, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -6523,7 +6492,7 @@
             "ServiceAddress": "1335 FOLSOM ST UNIT 104, 94103 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1335 Folsom St #104, San Francisco, CA 94103, USA",
                 "location": {
@@ -6554,7 +6523,7 @@
             "ServiceAddress": "299 FRANKLIN ST UNIT 731, 94063 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 299 Franklin St #731, Redwood City, CA 94063, USA",
                 "location": {
@@ -6585,7 +6554,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 206, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #206, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -6616,7 +6585,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 54H, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #54h, Cupertino, CA 95014, USA",
                 "location": {
@@ -6647,7 +6616,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 228, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #228, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -6678,7 +6647,7 @@
             "ServiceAddress": "877 HEATHERSTONE WAY APT 219, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 877 Heatherstone Way #219, Mountain View, CA 94040, USA",
                 "location": {
@@ -6709,7 +6678,7 @@
             "ServiceAddress": "1288 E HILLSDALE BLVD APT B303, 94404 FOSTER CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1288 E Hillsdale Blvd b303, Foster City, CA 94404, USA",
                 "location": {
@@ -6740,7 +6709,7 @@
             "ServiceAddress": "4422 HACIENDA DR BLDG 7 UNIT 210, 94588 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4422 Hacienda Dr 7 210, Pleasanton, CA 94588, USA",
                 "location": {
@@ -6771,7 +6740,7 @@
             "ServiceAddress": "205 COMPTON CIR APT B, 94583 SAN RAMON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 205 Compton Cir b, San Ramon, CA 94583, USA",
                 "location": {
@@ -6802,7 +6771,7 @@
             "ServiceAddress": "561 HYDE PARK DR, 95136 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 561 Hyde Park Dr, San Jose, CA 95136, USA",
                 "location": {
@@ -6833,7 +6802,7 @@
             "ServiceAddress": "210 PARK LAKE CIR APT A, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 210 Park Lake Cir a, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -6864,7 +6833,7 @@
             "ServiceAddress": "5304 SAN PABLO AVE UNIT B, 94608 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5304 San Pablo Ave b, Oakland, CA 94608, USA",
                 "location": {
@@ -6895,7 +6864,7 @@
             "ServiceAddress": "39831 PELTON TER, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 39831 Pelton Ter, Newark, CA 94560, USA",
                 "location": {
@@ -6926,7 +6895,7 @@
             "ServiceAddress": "965 LUZ DEL SOL LOOP, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 965 Luz Del Sol Loop, Milpitas, CA 95035, USA",
                 "location": {
@@ -6957,7 +6926,7 @@
             "ServiceAddress": "750 MILLER ST APT 909, 95110 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Miller St APT 909, San Jose, CA 95110, USA",
                 "location": {
@@ -6988,7 +6957,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 436, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #436, Oakland, CA 94612, USA",
                 "location": {
@@ -7019,7 +6988,7 @@
             "ServiceAddress": "1717 NOVATO BLVD, 94947 NOVATO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1717 Novato Blvd, Novato, CA 94947, USA",
                 "location": {
@@ -7050,7 +7019,7 @@
             "ServiceAddress": "15080 SWENSON ST, 94579 SAN LEANDRO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 15080 Swenson St, San Leandro, CA 94579, USA",
                 "location": {
@@ -7081,7 +7050,7 @@
             "ServiceAddress": "988 E EL CAMINO REAL APT B9, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 988 E El Camino Real b9, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -7112,7 +7081,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 624, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #624, Oakland, CA 94612, USA",
                 "location": {
@@ -7143,7 +7112,7 @@
             "ServiceAddress": "3 BRYCE CT, 94002 BELMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3 Bryce Ct, Belmont, CA 94002, USA",
                 "location": {
@@ -7174,7 +7143,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 202, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #202, Oakland, CA 94612, USA",
                 "location": {
@@ -7205,7 +7174,7 @@
             "ServiceAddress": "100 BEAR CT, 94539 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 100 Bear Ct, Fremont, CA 94539, USA",
                 "location": {
@@ -7236,7 +7205,7 @@
             "ServiceAddress": "359 N ABBOTT AVE, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 359 N Abbott Ave, Milpitas, CA 95035, USA",
                 "location": {
@@ -7267,7 +7236,7 @@
             "ServiceAddress": "2810 BREAKER CIR, 94545 HAYWARD, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2810 Breaker Cir, Hayward, CA 94545, USA",
                 "location": {
@@ -7298,7 +7267,7 @@
             "ServiceAddress": "645 CHESTNUT AVE # A, 94080 SOUTH SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 645 Chestnut Ave a, South San Francisco, CA 94080, USA",
                 "location": {
@@ -7329,7 +7298,7 @@
             "ServiceAddress": "10067 JUDY AVE, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10067 Judy Ave, Cupertino, CA 95014, USA",
                 "location": {
@@ -7360,7 +7329,7 @@
             "ServiceAddress": "3093 BROADWAY UNIT 466, 94611 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3093 Broadway #466, Oakland, CA 94611, USA",
                 "location": {
@@ -7391,7 +7360,7 @@
             "ServiceAddress": "5714 OCEANSPRAY RD, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5714 Oceanspray Rd, Newark, CA 94560, USA",
                 "location": {
@@ -7422,7 +7391,7 @@
             "ServiceAddress": "39975 CEDAR BLVD UNIT 328, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 39975 Cedar Blvd UNIT 328, Newark, CA 94560, USA",
                 "location": {
@@ -7453,7 +7422,7 @@
             "ServiceAddress": "3735 WHITWORTH DR, 94568 DUBLIN, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3735 Whitworth Dr, Dublin, CA 94568, USA",
                 "location": {
@@ -7484,7 +7453,7 @@
             "ServiceAddress": "2125 SONADOR CMNS, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2125 Sonador Commons, San Jose, CA 95128, USA",
                 "location": {
@@ -7515,7 +7484,7 @@
             "ServiceAddress": "832 E 21ST ST, 94606 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 832 E 21st St, Oakland, CA 94606, USA",
                 "location": {
@@ -7546,7 +7515,7 @@
             "ServiceAddress": "1475 CHERRY CIR BLDG 5, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1475 Cherry Cir #5, Milpitas, CA 95035, USA",
                 "location": {
@@ -7577,7 +7546,7 @@
             "ServiceAddress": "3093 BROADWAY AVE UNIT PH82, 94611 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3093 Broadway, Oakland, CA 94611, USA",
                 "location": {
@@ -7608,7 +7577,7 @@
             "ServiceAddress": "750 MILLER ST APT 908, 95110 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Miller St APT 908, San Jose, CA 95110, USA",
                 "location": {
@@ -7639,7 +7608,7 @@
             "ServiceAddress": "760 N 17TH ST, 95112 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 760 N 17th St, San Jose, CA 95112, USA",
                 "location": {
@@ -7670,7 +7639,7 @@
             "ServiceAddress": "611 SAN LUISITO WAY APT 7, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 611 San Luisito Way #7, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -7701,7 +7670,7 @@
             "ServiceAddress": "37050 MEADOWBROOK CMN APT 303, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37050 Meadowbrook Common APT 303, Fremont, CA 94536, USA",
                 "location": {
@@ -7732,7 +7701,7 @@
             "ServiceAddress": "1836 SAN BENITO ST, 94804 RICHMOND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1836 San Benito St, Richmond, CA 94804, USA",
                 "location": {
@@ -7763,7 +7732,7 @@
             "ServiceAddress": "1173 LONGFELLOW AVE, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1173 Longfellow Ave, Campbell, CA 95008, USA",
                 "location": {
@@ -7794,7 +7763,7 @@
             "ServiceAddress": "1821 SINCLAIR DR, 94588 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1821 Sinclair Dr, Pleasanton, CA 94588, USA",
                 "location": {
@@ -7825,7 +7794,7 @@
             "ServiceAddress": "4841 CHERYL CT, 94587 UNION CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4841 Cheryl Ct, Union City, CA 94587, USA",
                 "location": {
@@ -7856,7 +7825,7 @@
             "ServiceAddress": "2313 PANORAMIC DR, 94520 CONCORD, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2313 Panoramic Dr, Concord, CA 94520, USA",
                 "location": {
@@ -7887,7 +7856,7 @@
             "ServiceAddress": "1308 BERNOULLI PL UNIT 2, 95132 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1308 Bernoulli Pl UNIT 2, San Jose, CA 95132, USA",
                 "location": {
@@ -7918,7 +7887,7 @@
             "ServiceAddress": "1013 CARNELIAN TER, 94587 UNION CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1013 Carnelian Terrace, Union City, CA 94587, USA",
                 "location": {
@@ -7949,7 +7918,7 @@
             "ServiceAddress": "4875 WILLOW RD APT 302, 94588 PLEASANTON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4875 Willow Rd #302, Pleasanton, CA 94588, USA",
                 "location": {
@@ -7980,7 +7949,7 @@
             "ServiceAddress": "1605 VILLA ST, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1605 Villa St, Mountain View, CA 94041, USA",
                 "location": {
@@ -8011,7 +7980,7 @@
             "ServiceAddress": "750 MILLER ST APT 906, 95110 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Miller St APT 906, San Jose, CA 95110, USA",
                 "location": {
@@ -8042,7 +8011,7 @@
             "ServiceAddress": "38120 GERANIUM ST, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 38120 Geranium St, Newark, CA 94560, USA",
                 "location": {
@@ -8073,7 +8042,7 @@
             "ServiceAddress": "286 PARK LAKE CIR APT C, 94598 WALNUT CREEK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 286 Park Lake Cir c, Walnut Creek, CA 94598, USA",
                 "location": {
@@ -8104,7 +8073,7 @@
             "ServiceAddress": "990 E EL CAMINO REAL APT 3, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 990 E El Camino Real #3, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -8135,7 +8104,7 @@
             "ServiceAddress": "1065 60TH ST, 94608 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1065 60th St, Oakland, CA 94608, USA",
                 "location": {
@@ -8166,7 +8135,7 @@
             "ServiceAddress": "1490 LOS BUELLIS WAY, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1490 Los Buellis Way, Milpitas, CA 95035, USA",
                 "location": {
@@ -8197,7 +8166,7 @@
             "ServiceAddress": "3061 NEVES RD, 94403 SAN MATEO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3061 Neves Rd, San Mateo, CA 94403, USA",
                 "location": {
@@ -8228,7 +8197,7 @@
             "ServiceAddress": "5506 SAN PABLO AVE, 94608 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 5506 San Pablo Ave, Oakland, CA 94608, USA",
                 "location": {
@@ -8259,7 +8228,7 @@
             "ServiceAddress": "609 GRAND FIR AVE APT 15, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 609 Grand Fir Ave #15, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -8290,7 +8259,7 @@
             "ServiceAddress": "750 MILLER ST APT 901, 95110 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Miller St APT 901, San Jose, CA 95110, USA",
                 "location": {
@@ -8321,7 +8290,7 @@
             "ServiceAddress": "678 GREYLYN DR, 94583 SAN RAMON, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 678 Greylyn Dr, San Ramon, CA 94583, USA",
                 "location": {
@@ -8352,7 +8321,7 @@
             "ServiceAddress": "41903 CERCHIO TER, 94538 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 41903 Cerchio Terrace, Fremont, CA 94538, USA",
                 "location": {
@@ -8383,7 +8352,7 @@
             "ServiceAddress": "39923 PARADA ST # B, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 39923 Parada St B, Newark, CA 94560, USA",
                 "location": {
@@ -8414,7 +8383,7 @@
             "ServiceAddress": "1177 KEYSTONE CT, 95132 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1177 Keystone Ct, San Jose, CA 95132, USA",
                 "location": {
@@ -8445,7 +8414,7 @@
             "ServiceAddress": "82 PIMENTEL CIR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 82 Pimentel Cir, Milpitas, CA 95035, USA",
                 "location": {
@@ -8476,7 +8445,7 @@
             "ServiceAddress": "4344 FELLOWS ST, 94587 UNION CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4344 Fellows St, Union City, CA 94587, USA",
                 "location": {
@@ -8507,7 +8476,7 @@
             "ServiceAddress": "6615 MOUNT FOREST DR, 95120 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 6615 Mt Forest Dr, San Jose, CA 95120, USA",
                 "location": {
@@ -8538,7 +8507,7 @@
             "ServiceAddress": "354 MONTECITO WAY, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 354 Montecito Way, Milpitas, CA 95035, USA",
                 "location": {
@@ -8569,7 +8538,7 @@
             "ServiceAddress": "591 N CLOVER AVE, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 591 N Clover Ave, San Jose, CA 95128, USA",
                 "location": {
@@ -8600,7 +8569,7 @@
             "ServiceAddress": "3017 JAYHAWKERS PL, 95136 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3017 Jayhawkers Pl, San Jose, CA 95136, USA",
                 "location": {
@@ -8631,7 +8600,7 @@
             "ServiceAddress": "295 FANYON ST, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 295 Fanyon St, Milpitas, CA 95035, USA",
                 "location": {
@@ -8662,7 +8631,7 @@
             "ServiceAddress": "193 REDWOOD AVE APT 2, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 193 Redwood Ave #2, Redwood City, CA 94061, USA",
                 "location": {
@@ -8693,7 +8662,7 @@
             "ServiceAddress": "380 CHANNING WAY APT 359, 94903 SAN RAFAEL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 380 Channing Way #359, San Rafael, CA 94903, USA",
                 "location": {
@@ -8724,7 +8693,7 @@
             "ServiceAddress": "1101 N FAIR OAKS AVE APT 320, 94089 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 N Fair Oaks Ave #320, Sunnyvale, CA 94089, USA",
                 "location": {
@@ -8755,7 +8724,7 @@
             "ServiceAddress": "537 WOODVIEW TER, 94539 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 537 Woodview Terrace, Fremont, CA 94539, USA",
                 "location": {
@@ -8786,7 +8755,7 @@
             "ServiceAddress": "193 REDWOOD AVE APT 3, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 193 Redwood Ave #3, Redwood City, CA 94061, USA",
                 "location": {
@@ -8817,7 +8786,7 @@
             "ServiceAddress": "193 REDWOOD AVE APT 1, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 193 Redwood Ave #1, Redwood City, CA 94061, USA",
                 "location": {
@@ -8848,7 +8817,7 @@
             "ServiceAddress": "1059 UNION ST APT M, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1059 Union St m, San Francisco, CA 94133, USA",
                 "location": {
@@ -8879,7 +8848,7 @@
             "ServiceAddress": "655 S FAIR OAKS AVE APT H304, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 655 S Fair Oaks Ave h304, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -8910,7 +8879,7 @@
             "ServiceAddress": "1257 W WASHINGTON AVE, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1257 W Washington Ave, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -8941,7 +8910,7 @@
             "ServiceAddress": "111 N RENGSTORFF AVE APT 152, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving Building P, 111 N Rengstorff Ave #152, Mountain View, CA 94043, USA",
                 "location": {
@@ -8972,7 +8941,7 @@
             "ServiceAddress": "939 LAUREL ST APT 214, 94070 SAN CARLOS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 939 Laurel St APT 214, San Carlos, CA 94070, USA",
                 "location": {
@@ -9003,7 +8972,7 @@
             "ServiceAddress": "1510-1512 PACIFIC AVE Common Area (house meter), 94109 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1510 Pacific Ave #1512, San Francisco, CA 94109, USA",
                 "location": {
@@ -9034,7 +9003,7 @@
             "ServiceAddress": "929 E EL CAMINO REAL # 112, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 929 E El Camino Real #112, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -9065,7 +9034,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 2-102, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 2 102, San Francisco, CA 94107, USA",
                 "location": {
@@ -9096,7 +9065,7 @@
             "ServiceAddress": "636 MONTAGE CIR, 94303 EAST PALO ALTO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 636 Montage Cir, East Palo Alto, CA 94303, USA",
                 "location": {
@@ -9127,7 +9096,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 2-610, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 2 610, San Francisco, CA 94107, USA",
                 "location": {
@@ -9158,7 +9127,7 @@
             "ServiceAddress": "3500 OAK DR, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3500 Oak Dr, Menlo Park, CA 94025, USA",
                 "location": {
@@ -9189,7 +9158,7 @@
             "ServiceAddress": "2315 EASTRIDGE AVE APT 726, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2315 Eastridge Ave APT 726, Menlo Park, CA 94025, USA",
                 "location": {
@@ -9220,7 +9189,7 @@
             "ServiceAddress": "548 BRANNAN ST UNIT 306, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 548 Brannan St UNIT 306, San Francisco, CA 94107, USA",
                 "location": {
@@ -9251,7 +9220,7 @@
             "ServiceAddress": "939 LAUREL ST APT 216, 94070 SAN CARLOS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 939 Laurel St APT 216, San Carlos, CA 94070, USA",
                 "location": {
@@ -9282,7 +9251,7 @@
             "ServiceAddress": "223 JOOST AVE, 94131 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 223 Joost Ave, San Francisco, CA 94131, USA",
                 "location": {
@@ -9313,7 +9282,7 @@
             "ServiceAddress": "216 VISTA ROMA WAY, 95136 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 216 Vista Roma Way, San Jose, CA 95136, USA",
                 "location": {
@@ -9344,7 +9313,7 @@
             "ServiceAddress": "2077 KIWI WALKWAY, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2077 Kiwi Walkway, San Jose, CA 95133, USA",
                 "location": {
@@ -9375,7 +9344,7 @@
             "ServiceAddress": "235 BERRY ST APT 101, 94158 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 235 Berry St APT 101, San Francisco, CA 94158, USA",
                 "location": {
@@ -9406,7 +9375,7 @@
             "ServiceAddress": "277 WILLOW RD, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 277 Willow Rd, Menlo Park, CA 94025, USA",
                 "location": {
@@ -9437,7 +9406,7 @@
             "ServiceAddress": "655 S FAIR OAKS AVE APT H303, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 655 S Fair Oaks Ave h303, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -9468,7 +9437,7 @@
             "ServiceAddress": "1512 PACIFIC AVE, 94109 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1512 Pacific Ave, San Francisco, CA 94109, USA",
                 "location": {
@@ -9499,7 +9468,7 @@
             "ServiceAddress": "2 TOWNSEND ST APT 1-709, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2 Townsend St 1 709, San Francisco, CA 94107, USA",
                 "location": {
@@ -9530,7 +9499,7 @@
             "ServiceAddress": "630 MASONIC WAY APT C, 94002 BELMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 630 Masonic Way c, Belmont, CA 94002, USA",
                 "location": {
@@ -9561,7 +9530,7 @@
             "ServiceAddress": "2840 WILLOW PASS RD, 94519 CONCORD, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2840 Willow Pass Rd, Concord, CA 94519, USA",
                 "location": {
@@ -9592,7 +9561,7 @@
             "ServiceAddress": "385 PATTON AVE, 95128 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 385 Patton Ave, San Jose, CA 95128, USA",
                 "location": {
@@ -9623,7 +9592,7 @@
             "ServiceAddress": "1601 VILLA ST, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1601 Villa St, Mountain View, CA 94041, USA",
                 "location": {
@@ -9654,7 +9623,7 @@
             "ServiceAddress": "37127 EDITH ST, 94560 NEWARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37127 Edith St, Newark, CA 94560, USA",
                 "location": {
@@ -9685,7 +9654,7 @@
             "ServiceAddress": "6089 SUNSTONE DR, 95123 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 6089 Sunstone Dr, San Jose, CA 95123, USA",
                 "location": {
@@ -9716,7 +9685,7 @@
             "ServiceAddress": "260 PARC PLACE DR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 260 Parc Pl Dr, Milpitas, CA 95035, USA",
                 "location": {
@@ -9747,7 +9716,7 @@
             "ServiceAddress": "22438 WALNUT CIR S, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 22438 Walnut Cir S, Cupertino, CA 95014, USA",
                 "location": {
@@ -9778,7 +9747,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 54G, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #54g, Cupertino, CA 95014, USA",
                 "location": {
@@ -9809,7 +9778,7 @@
             "ServiceAddress": "804 ERIE CIR, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 804 Erie Cir, Milpitas, CA 95035, USA",
                 "location": {
@@ -9840,7 +9809,7 @@
             "ServiceAddress": "4618 SALINA DR, 95124 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 4618 Salina Dr, San Jose, CA 95124, USA",
                 "location": {
@@ -9871,7 +9840,7 @@
             "ServiceAddress": "923 FOLSOM ST APT 319, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 923 Folsom St #319, San Francisco, CA 94107, USA",
                 "location": {
@@ -9902,7 +9871,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 18F, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #18f, Cupertino, CA 95014, USA",
                 "location": {
@@ -9933,7 +9902,7 @@
             "ServiceAddress": "655 5TH ST APT 7, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 655 5th St APT 7, San Francisco, CA 94107, USA",
                 "location": {
@@ -9964,7 +9933,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 13F, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #13f, Cupertino, CA 95014, USA",
                 "location": {
@@ -9995,7 +9964,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 313, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #313, Oakland, CA 94612, USA",
                 "location": {
@@ -10026,7 +9995,7 @@
             "ServiceAddress": "37140 FREMONT BLVD BLDG 5 UNIT 200, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37140 Fremont Blvd 5 200, Fremont, CA 94536, USA",
                 "location": {
@@ -10057,7 +10026,7 @@
             "ServiceAddress": "2450 VALDEZ ST UNIT 325, 94612 OAKLAND, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2450 Valdez St #325, Oakland, CA 94612, USA",
                 "location": {
@@ -10088,7 +10057,7 @@
             "ServiceAddress": "37100 FREMONT BLVD BLDG 3 UNIT 301, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37100 Fremont Blvd 3 301, Fremont, CA 94536, USA",
                 "location": {
@@ -10119,7 +10088,7 @@
             "ServiceAddress": "37120 FREMONT BLVD APT 211, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37120 Fremont Blvd #211, Fremont, CA 94536, USA",
                 "location": {
@@ -10150,7 +10119,7 @@
             "ServiceAddress": "1101 S MAIN ST APT 105, 95035 MILPITAS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1101 S Main St APT 105, Milpitas, CA 95035, USA",
                 "location": {
@@ -10181,7 +10150,7 @@
             "ServiceAddress": "73 GLADYS AVE, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 73 Gladys Ave, Mountain View, CA 94043, USA",
                 "location": {
@@ -10212,7 +10181,7 @@
             "ServiceAddress": "3889 ARTIST WALK CMN BLDG 2 UNIT 101, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 3889 Artist Walk Common 2 101, Fremont, CA 94536, USA",
                 "location": {
@@ -10243,7 +10212,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 11D, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #11d, Cupertino, CA 95014, USA",
                 "location": {
@@ -10274,7 +10243,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 48B, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #48b, Cupertino, CA 95014, USA",
                 "location": {
@@ -10305,7 +10274,7 @@
             "ServiceAddress": "112 DURHAM ST, 94025 MENLO PARK, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 112 Durham St, Menlo Park, CA 94025, USA",
                 "location": {
@@ -10336,7 +10305,7 @@
             "ServiceAddress": "37120 FREMONT BLVD APT 306, 94536 FREMONT, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 37120 Fremont Blvd #306, Fremont, CA 94536, USA",
                 "location": {
@@ -10367,7 +10336,7 @@
             "ServiceAddress": "20800 HOMESTEAD RD APT 63G, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20800 Homestead Rd #63g, Cupertino, CA 95014, USA",
                 "location": {
@@ -10398,7 +10367,7 @@
             "ServiceAddress": "665 E OLIVE AVE APT 4, 94086 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 665 E Olive Ave #4, Sunnyvale, CA 94086, USA",
                 "location": {
@@ -10429,7 +10398,7 @@
             "ServiceAddress": "1059 UNION ST APT K, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1059 Union St k, San Francisco, CA 94133, USA",
                 "location": {
@@ -10460,7 +10429,7 @@
             "ServiceAddress": "1059 UNION ST APT O, 94133 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1059 Union St o, San Francisco, CA 94133, USA",
                 "location": {
@@ -10491,7 +10460,7 @@
             "ServiceAddress": "1735 STEINER ST APT 368, 94115 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1735 Steiner St #368, San Francisco, CA 94115, USA",
                 "location": {
@@ -10522,7 +10491,7 @@
             "ServiceAddress": "750 HARRISON ST APT 710, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #710, San Francisco, CA 94107, USA",
                 "location": {
@@ -10553,7 +10522,7 @@
             "ServiceAddress": "108 BRYANT ST APT 32, 94041 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 108 Bryant St APT 32, Mountain View, CA 94041, USA",
                 "location": {
@@ -10584,7 +10553,7 @@
             "ServiceAddress": "2025 CALIFORNIA ST APT 45, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2025 California St APT 45, Mountain View, CA 94040, USA",
                 "location": {
@@ -10615,7 +10584,7 @@
             "ServiceAddress": "668 GALLEON CT, 95133 SAN JOSE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 668 Galleon Ct, San Jose, CA 95133, USA",
                 "location": {
@@ -10646,7 +10615,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 43A, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #43a, Cupertino, CA 95014, USA",
                 "location": {
@@ -10677,7 +10646,7 @@
             "ServiceAddress": "550 N FAIR OAKS AVE APT 6, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 550 N Fair Oaks Ave #6, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -10708,7 +10677,7 @@
             "ServiceAddress": "2731 MONTAVO PL, 95008 CAMPBELL, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 2731 Montavo Pl, Campbell, CA 95008, USA",
                 "location": {
@@ -10739,7 +10708,7 @@
             "ServiceAddress": "577 ALBERTA AVE, 94087 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 577 Alberta Ave, Sunnyvale, CA 94087, USA",
                 "location": {
@@ -10770,7 +10739,7 @@
             "ServiceAddress": "10093 S BLANEY AVE APT 305, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10093 S Blaney Ave #305, Cupertino, CA 95014, USA",
                 "location": {
@@ -10801,7 +10770,7 @@
             "ServiceAddress": "750 HARRISON ST APT 701, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #701, San Francisco, CA 94107, USA",
                 "location": {
@@ -10832,7 +10801,7 @@
             "ServiceAddress": "550 N FAIR OAKS AVE APT 1, 94085 SUNNYVALE, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 550 N Fair Oaks Ave #1, Sunnyvale, CA 94085, USA",
                 "location": {
@@ -10863,7 +10832,7 @@
             "ServiceAddress": "696 DE HARO ST # A, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 696 De Haro St a, San Francisco, CA 94107, USA",
                 "location": {
@@ -10894,7 +10863,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 43D, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #43d, Cupertino, CA 95014, USA",
                 "location": {
@@ -10925,7 +10894,7 @@
             "ServiceAddress": "1108 DAVIS ST, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1108 Davis St, Redwood City, CA 94061, USA",
                 "location": {
@@ -10956,7 +10925,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 39F, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #39f, Cupertino, CA 95014, USA",
                 "location": {
@@ -10987,7 +10956,7 @@
             "ServiceAddress": "20900 HOMESTEAD RD APT 80C, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 20900 Homestead Rd #80c, Cupertino, CA 95014, USA",
                 "location": {
@@ -11018,7 +10987,7 @@
             "ServiceAddress": "750 HARRISON ST APT 703, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #703, San Francisco, CA 94107, USA",
                 "location": {
@@ -11049,7 +11018,7 @@
             "ServiceAddress": "750 HARRISON ST APT 708, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #708, San Francisco, CA 94107, USA",
                 "location": {
@@ -11080,7 +11049,7 @@
             "ServiceAddress": "750 HARRISON ST APT 702, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #702, San Francisco, CA 94107, USA",
                 "location": {
@@ -11111,7 +11080,7 @@
             "ServiceAddress": "1371 SAN DOMAR DR, 94043 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1371 San Domar Dr, Mountain View, CA 94043, USA",
                 "location": {
@@ -11142,7 +11111,7 @@
             "ServiceAddress": "750 HARRISON ST APT 706, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #706, San Francisco, CA 94107, USA",
                 "location": {
@@ -11173,7 +11142,7 @@
             "ServiceAddress": "550 ORTEGA AVE APT 120, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 550 Ortega Ave #120, Mountain View, CA 94040, USA",
                 "location": {
@@ -11204,7 +11173,7 @@
             "ServiceAddress": "750 HARRISON ST APT 707, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #707, San Francisco, CA 94107, USA",
                 "location": {
@@ -11235,7 +11204,7 @@
             "ServiceAddress": "1104 DAVIS ST, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1104 Davis St, Redwood City, CA 94061, USA",
                 "location": {
@@ -11266,7 +11235,7 @@
             "ServiceAddress": "750 HARRISON ST APT 709, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #709, San Francisco, CA 94107, USA",
                 "location": {
@@ -11297,7 +11266,7 @@
             "ServiceAddress": "10870 N STELLING RD APT 46C, 95014 CUPERTINO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 10870 N Stelling Rd #46c, Cupertino, CA 95014, USA",
                 "location": {
@@ -11328,7 +11297,7 @@
             "ServiceAddress": "547 ROOSEVELT AVE, 94061 REDWOOD CITY, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 547 Roosevelt Ave, Redwood City, CA 94061, USA",
                 "location": {
@@ -11359,7 +11328,7 @@
             "ServiceAddress": "750 HARRISON ST APT 711, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #711, San Francisco, CA 94107, USA",
                 "location": {
@@ -11390,7 +11359,7 @@
             "ServiceAddress": "750 HARRISON ST APT 704, 94107 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 750 Harrison St #704, San Francisco, CA 94107, USA",
                 "location": {
@@ -11421,7 +11390,7 @@
             "ServiceAddress": "1098 JUDSON DR, 94040 MOUNTAIN VIEW, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_ZeusLiving 1098 Judson Dr, Mountain View, CA 94040, USA",
                 "location": {
@@ -11452,7 +11421,7 @@
             "ServiceAddress": "320 W CEDAR ST 204, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #204, San Diego, CA 92101, USA",
                 "location": {
@@ -11483,7 +11452,7 @@
             "ServiceAddress": "1451 STATE ST 201, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #201, San Diego, CA 92101, USA",
                 "location": {
@@ -11514,7 +11483,7 @@
             "ServiceAddress": "1451 STATE ST 303, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #303, San Diego, CA 92101, USA",
                 "location": {
@@ -11545,7 +11514,7 @@
             "ServiceAddress": "320 W CEDAR ST 503, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #503, San Diego, CA 92101, USA",
                 "location": {
@@ -11576,7 +11545,7 @@
             "ServiceAddress": "1529 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1529 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -11607,7 +11576,7 @@
             "ServiceAddress": "320 W CEDAR ST 304, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #304, San Diego, CA 92101, USA",
                 "location": {
@@ -11638,7 +11607,7 @@
             "ServiceAddress": "4224 OHIO ST 401, 92104 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 4224 Ohio St #401, San Diego, CA 92104, USA",
                 "location": {
@@ -11669,7 +11638,7 @@
             "ServiceAddress": "320 W CEDAR ST 203, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #203, San Diego, CA 92101, USA",
                 "location": {
@@ -11700,7 +11669,7 @@
             "ServiceAddress": "320 W CEDAR ST 506, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #506, San Diego, CA 92101, USA",
                 "location": {
@@ -11731,7 +11700,7 @@
             "ServiceAddress": "1451 STATE ST 101, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #101, San Diego, CA 92101, USA",
                 "location": {
@@ -11762,7 +11731,7 @@
             "ServiceAddress": "1451 STATE ST 202, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #202, San Diego, CA 92101, USA",
                 "location": {
@@ -11793,7 +11762,7 @@
             "ServiceAddress": "1527 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1527 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -11824,7 +11793,7 @@
             "ServiceAddress": "1451 STATE ST 200, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #200, San Diego, CA 92101, USA",
                 "location": {
@@ -11855,7 +11824,7 @@
             "ServiceAddress": "320 W CEDAR ST 303, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #303, San Diego, CA 92101, USA",
                 "location": {
@@ -11886,7 +11855,7 @@
             "ServiceAddress": "320 W CEDAR ST 504, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #504, San Diego, CA 92101, USA",
                 "location": {
@@ -11917,7 +11886,7 @@
             "ServiceAddress": "1531 1/2 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1531 1/2 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -11948,7 +11917,7 @@
             "ServiceAddress": "1451 STATE ST 300, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #300, San Diego, CA 92101, USA",
                 "location": {
@@ -11979,7 +11948,7 @@
             "ServiceAddress": "1451 STATE ST 203, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #203, San Diego, CA 92101, USA",
                 "location": {
@@ -12010,7 +11979,7 @@
             "ServiceAddress": "4224 OHIO ST 206, 92104 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 4224 Ohio St #206, San Diego, CA 92104, USA",
                 "location": {
@@ -12041,7 +12010,7 @@
             "ServiceAddress": "1451 STATE ST 103, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #103, San Diego, CA 92101, USA",
                 "location": {
@@ -12072,7 +12041,7 @@
             "ServiceAddress": "1533 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1533 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -12103,7 +12072,7 @@
             "ServiceAddress": "1451 STATE ST 100, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #100, San Diego, CA 92101, USA",
                 "location": {
@@ -12134,7 +12103,7 @@
             "ServiceAddress": "831 BROADWAY G, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway g, San Diego, CA 92101, USA",
                 "location": {
@@ -12165,7 +12134,7 @@
             "ServiceAddress": "831 BROADWAY F, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway f, San Diego, CA 92101, USA",
                 "location": {
@@ -12196,7 +12165,7 @@
             "ServiceAddress": "4224 OHIO ST 405, 92104 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 4224 Ohio St #405, San Diego, CA 92104, USA",
                 "location": {
@@ -12227,7 +12196,7 @@
             "ServiceAddress": "1451 STATE ST 302, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #302, San Diego, CA 92101, USA",
                 "location": {
@@ -12258,7 +12227,7 @@
             "ServiceAddress": "552 5TH AVE 41, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #41, San Diego, CA 92101, USA",
                 "location": {
@@ -12289,7 +12258,7 @@
             "ServiceAddress": "715 15TH ST 501, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #501, San Diego, CA 92101, USA",
                 "location": {
@@ -12320,7 +12289,7 @@
             "ServiceAddress": "715 15TH ST 505, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #505, San Diego, CA 92101, USA",
                 "location": {
@@ -12351,7 +12320,7 @@
             "ServiceAddress": "831 BROADWAY B, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway b, San Diego, CA 92101, USA",
                 "location": {
@@ -12382,7 +12351,7 @@
             "ServiceAddress": "552 5TH AVE 31, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #31, San Diego, CA 92101, USA",
                 "location": {
@@ -12413,7 +12382,7 @@
             "ServiceAddress": "715 15TH ST 603, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #603, San Diego, CA 92101, USA",
                 "location": {
@@ -12444,7 +12413,7 @@
             "ServiceAddress": "715 15TH ST 601, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #601, San Diego, CA 92101, USA",
                 "location": {
@@ -12475,7 +12444,7 @@
             "ServiceAddress": "831 BROADWAY D, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway d, San Diego, CA 92101, USA",
                 "location": {
@@ -12506,7 +12475,7 @@
             "ServiceAddress": "715 15TH ST 602, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #602, San Diego, CA 92101, USA",
                 "location": {
@@ -12537,7 +12506,7 @@
             "ServiceAddress": "831 BROADWAY A, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway a, San Diego, CA 92101, USA",
                 "location": {
@@ -12568,7 +12537,7 @@
             "ServiceAddress": "715 15TH ST HM, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St, San Diego, CA 92101, USA",
                 "location": {
@@ -12599,7 +12568,7 @@
             "ServiceAddress": "715 15TH ST 604, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #604, San Diego, CA 92101, USA",
                 "location": {
@@ -12630,7 +12599,7 @@
             "ServiceAddress": "831 BROADWAY E, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway, San Diego, CA 92101, USA",
                 "location": {
@@ -12661,7 +12630,7 @@
             "ServiceAddress": "715 15TH ST 304, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #304, San Diego, CA 92101, USA",
                 "location": {
@@ -12692,7 +12661,7 @@
             "ServiceAddress": "715 15TH ST 504, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #504, San Diego, CA 92101, USA",
                 "location": {
@@ -12723,7 +12692,7 @@
             "ServiceAddress": "715 15TH ST 406, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #406, San Diego, CA 92101, USA",
                 "location": {
@@ -12754,7 +12723,7 @@
             "ServiceAddress": "715 15TH ST EV2, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St, San Diego, CA 92101, USA",
                 "location": {
@@ -12785,7 +12754,7 @@
             "ServiceAddress": "831 BROADWAY C, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 831 Broadway c, San Diego, CA 92101, USA",
                 "location": {
@@ -12816,7 +12785,7 @@
             "ServiceAddress": "552 5TH AVE 42, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #42, San Diego, CA 92101, USA",
                 "location": {
@@ -12847,7 +12816,7 @@
             "ServiceAddress": "552 5TH AVE 43, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #43, San Diego, CA 92101, USA",
                 "location": {
@@ -12878,7 +12847,7 @@
             "ServiceAddress": "552 5TH AVE 22, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #22, San Diego, CA 92101, USA",
                 "location": {
@@ -12909,7 +12878,7 @@
             "ServiceAddress": "552 5TH AVE 44, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #44, San Diego, CA 92101, USA",
                 "location": {
@@ -12940,7 +12909,7 @@
             "ServiceAddress": "552 5TH AVE 21, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #21, San Diego, CA 92101, USA",
                 "location": {
@@ -12971,7 +12940,7 @@
             "ServiceAddress": "552 5TH AVE 34, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #34, San Diego, CA 92101, USA",
                 "location": {
@@ -13002,7 +12971,7 @@
             "ServiceAddress": "715 15TH ST 502, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #502, San Diego, CA 92101, USA",
                 "location": {
@@ -13033,7 +13002,7 @@
             "ServiceAddress": "552 5TH AVE HM, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave, San Diego, CA 92101, USA",
                 "location": {
@@ -13064,7 +13033,7 @@
             "ServiceAddress": "715 15TH ST 506, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #506, San Diego, CA 92101, USA",
                 "location": {
@@ -13095,7 +13064,7 @@
             "ServiceAddress": "715 15TH ST EV1, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St, San Diego, CA 92101, USA",
                 "location": {
@@ -13126,7 +13095,7 @@
             "ServiceAddress": "4224 OHIO ST 305, 92104 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 4224 Ohio St #305, San Diego, CA 92104, USA",
                 "location": {
@@ -13157,7 +13126,7 @@
             "ServiceAddress": "552 5TH AVE 24, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #24, San Diego, CA 92101, USA",
                 "location": {
@@ -13188,7 +13157,7 @@
             "ServiceAddress": "552 5TH AVE 23, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #23, San Diego, CA 92101, USA",
                 "location": {
@@ -13219,7 +13188,7 @@
             "ServiceAddress": "715 15TH ST 405, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #405, San Diego, CA 92101, USA",
                 "location": {
@@ -13250,7 +13219,7 @@
             "ServiceAddress": "715 15TH ST 305, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #305, San Diego, CA 92101, USA",
                 "location": {
@@ -13281,7 +13250,7 @@
             "ServiceAddress": "715 15TH ST 306, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #306, San Diego, CA 92101, USA",
                 "location": {
@@ -13312,7 +13281,7 @@
             "ServiceAddress": "715 15TH ST 402, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #402, San Diego, CA 92101, USA",
                 "location": {
@@ -13343,7 +13312,7 @@
             "ServiceAddress": "715 15TH ST 301, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #301, San Diego, CA 92101, USA",
                 "location": {
@@ -13374,7 +13343,7 @@
             "ServiceAddress": "320 W CEDAR ST 501, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #501, San Diego, CA 92101, USA",
                 "location": {
@@ -13405,7 +13374,7 @@
             "ServiceAddress": "715 15TH ST 403, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #403, San Diego, CA 92101, USA",
                 "location": {
@@ -13436,7 +13405,7 @@
             "ServiceAddress": "715 15TH ST 303, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #303, San Diego, CA 92101, USA",
                 "location": {
@@ -13467,7 +13436,7 @@
             "ServiceAddress": "715 15TH ST 404, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #404, San Diego, CA 92101, USA",
                 "location": {
@@ -13498,7 +13467,7 @@
             "ServiceAddress": "1525 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1525 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -13529,7 +13498,7 @@
             "ServiceAddress": "320 W CEDAR ST 302, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #302, San Diego, CA 92101, USA",
                 "location": {
@@ -13560,7 +13529,7 @@
             "ServiceAddress": "320 W CEDAR ST 505, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #505, San Diego, CA 92101, USA",
                 "location": {
@@ -13591,7 +13560,7 @@
             "ServiceAddress": "715 15TH ST 503, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #503, San Diego, CA 92101, USA",
                 "location": {
@@ -13622,7 +13591,7 @@
             "ServiceAddress": "715 15TH ST 206, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #206, San Diego, CA 92101, USA",
                 "location": {
@@ -13653,7 +13622,7 @@
             "ServiceAddress": "552 5TH AVE 32, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #32, San Diego, CA 92101, USA",
                 "location": {
@@ -13684,7 +13653,7 @@
             "ServiceAddress": "715 15TH ST 302, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #302, San Diego, CA 92101, USA",
                 "location": {
@@ -13715,7 +13684,7 @@
             "ServiceAddress": "715 15TH ST 205, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #205, San Diego, CA 92101, USA",
                 "location": {
@@ -13746,7 +13715,7 @@
             "ServiceAddress": "642 BONAIR WAY, 92037 LA JOLLA, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 642 Bonair Way, La Jolla, CA 92037, USA",
                 "location": {
@@ -13777,7 +13746,7 @@
             "ServiceAddress": "644 BONAIR WAY, 92037 LA JOLLA, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 644 Bonair Way, La Jolla, CA 92037, USA",
                 "location": {
@@ -13808,7 +13777,7 @@
             "ServiceAddress": "715 15TH ST 401, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #401, San Diego, CA 92101, USA",
                 "location": {
@@ -13839,7 +13808,7 @@
             "ServiceAddress": "1537 UNION ST, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1537 Union St, San Diego, CA 92101, USA",
                 "location": {
@@ -13870,7 +13839,7 @@
             "ServiceAddress": "552 5TH AVE 33, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 552 Fifth Ave #33, San Diego, CA 92101, USA",
                 "location": {
@@ -13901,7 +13870,7 @@
             "ServiceAddress": "320 W CEDAR ST 205, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 320 W Cedar St #205, San Diego, CA 92101, USA",
                 "location": {
@@ -13932,7 +13901,7 @@
             "ServiceAddress": "715 15TH ST 202, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #202, San Diego, CA 92101, USA",
                 "location": {
@@ -13963,8 +13932,24 @@
             "ServiceAddress": "320 W CEDAR ST 502, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
-            "input_data": null
+            "Zen Group ID": null,
+            "input_data": {
+                "title": "LeapTest_Sonder 320 W Cedar St #502, San Diego, CA 92101, USA",
+                "location": {
+                    "address": "320 W Cedar St #502, San Diego, CA 92101, USA",
+                    "country": "US",
+                    "state": "CA",
+                    "timezone": "America/Los_Angeles",
+                    "utc_offset": -7,
+                    "lat": 32.7221602,
+                    "lng": -117.1659133
+                },
+                "googlePlace": {
+                    "placeId": "Ei0zMjAgVyBDZWRhciBTdCAjNTAyLCBTYW4gRGllZ28sIENBIDkyMTAxLCBVU0EiHxodChYKFAoSCZttS0OuVNmAEX9ejnY8-9tLEgM1MDI",
+                    "url": "",
+                    "type": "subpremise"
+                }
+            }
         },
         {
             "MeterId": "9ec46223-c5b1-452d-ad91-22a7361c5b3a",
@@ -13978,7 +13963,7 @@
             "ServiceAddress": "1451 STATE ST 301, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1451 State St #301, San Diego, CA 92101, USA",
                 "location": {
@@ -14009,7 +13994,7 @@
             "ServiceAddress": "765 10TH AVE HM, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 765 Tenth Ave, San Diego, CA 92101, USA",
                 "location": {
@@ -14040,7 +14025,7 @@
             "ServiceAddress": "715 15TH ST 204, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #204, San Diego, CA 92101, USA",
                 "location": {
@@ -14071,7 +14056,7 @@
             "ServiceAddress": "715 15TH ST 203, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #203, San Diego, CA 92101, USA",
                 "location": {
@@ -14102,7 +14087,7 @@
             "ServiceAddress": "715 15TH ST 201, 92101 SAN DIEGO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 715 15th St #201, San Diego, CA 92101, USA",
                 "location": {
@@ -14133,7 +14118,7 @@
             "ServiceAddress": "135 GOUGH ST, 94102 SAN FRANCISCO, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 135 Gough St, San Francisco, CA 94102, USA",
                 "location": {
@@ -14164,7 +14149,7 @@
             "ServiceAddress": "1600 S COAST HWY, 92651 LAGUNA BEACH, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 1600 S Coast Hwy, Laguna Beach, CA 92651, USA",
                 "location": {
@@ -14195,7 +14180,7 @@
             "ServiceAddress": "6208 W PACIFIC COAST HWY, 92663 NEWPORT BEACH, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 6208 E Pacific Coast Hwy, Newport Beach, CA 92663, USA",
                 "location": {
@@ -14226,7 +14211,7 @@
             "ServiceAddress": "6208 W PACIFIC COAST HWY, 92663 NEWPORT BEACH, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 6208 E Pacific Coast Hwy, Newport Beach, CA 92663, USA",
                 "location": {
@@ -14257,8 +14242,24 @@
             "ServiceAddress": "3900 W CENTURY BLVD, 90303 INGLEWOOD, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
-            "input_data": null
+            "Zen Group ID": null,
+            "input_data": {
+                "title": "LeapTest_Sonder 3900 W Century Blvd, Inglewood, CA 90303, USA",
+                "location": {
+                    "address": "3900 W Century Blvd, Inglewood, CA 90303, USA",
+                    "country": "US",
+                    "state": "CA",
+                    "timezone": "America/Los_Angeles",
+                    "utc_offset": -7,
+                    "lat": 33.9449422,
+                    "lng": -118.3416632
+                },
+                "googlePlace": {
+                    "placeId": "ChIJE_u5v162woARJPL0rQyU4RI",
+                    "url": "",
+                    "type": "premise"
+                }
+            }
         },
         {
             "MeterId": "3c683dad-26cd-4b59-8776-4864360579c7",
@@ -14272,7 +14273,7 @@
             "ServiceAddress": "333 E PALM CANYON DR EAST, 92264 PALM SPRINGS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 333 E Palm Canyon Dr, Palm Springs, CA 92264, USA",
                 "location": {
@@ -14303,7 +14304,7 @@
             "ServiceAddress": "333 E PALM CANYON DR WEST, 92264 PALM SPRINGS, CA, US",
             "Status": "Active",
             "InZen": "FALSE",
-            "Group ID": null,
+            "Zen Group ID": null,
             "input_data": {
                 "title": "LeapTest_Sonder 333 E Palm Canyon Dr, Palm Springs, CA 92264, USA",
                 "location": {
