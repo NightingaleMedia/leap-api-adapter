@@ -7,8 +7,8 @@ from script.call_google import call_google_maps
 from script.location_service import format_for_zen, get_location
 from script.config import SPREADSHEET_ID, SHEET
 from script.write_to_sheet import write_to_sheet
-from src.script.get_sheet_json import get_sheet_json
-from src.script.save_to_json import save_to_json
+from script.get_sheet_json import get_sheet_json
+from script.save_to_json import save_to_json
 
 
 RANGE_NAME = "NewMeterAssign!A:L"
@@ -26,7 +26,7 @@ def main():
         json_object = dict({"errors": list(error_list), "data": final_list})
 
         # Writing to sample.json
-        save_to_json(json_dict=json_object, filename="leap_export.json")
+        save_to_json(json_dict=json_object, filename="leap_export")
         # Print columns A and E, which correspond to indices 0 and 4.
         write_to_sheet(final_list=final_list)
     except Error as err:
