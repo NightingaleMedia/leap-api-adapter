@@ -21,7 +21,6 @@
                             "Group ID": "616de17af045340007b50a39",
                             "input_data": {
                                 "title": "Sonder 37 W 24th St, New York, NY 10010, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "37 W 24th St, New York, NY 10010, USA",
                                     "country": "US",
@@ -63,7 +62,6 @@
                             "Group ID": "628e9e20c518e50007814d3d",
                             "input_data": {
                                 "title": "Zeus Living 2195 Klassen Way, San Jose, CA 95131, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "2195 Klassen Way, San Jose, CA 95131, USA",
                                     "country": "US",
@@ -95,7 +93,6 @@
                             "Group ID": "62b9f53dfc2ed30008b693ea",
                             "input_data": {
                                 "title": "Zeus Living 600 Castle Hill Rd, Redwood City, CA 94061, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "600 Castle Hill Rd, Redwood City, CA 94061, USA",
                                     "country": "US",
@@ -127,7 +124,6 @@
                             "Group ID": "62aba9a0f856280008bcdf88",
                             "input_data": {
                                 "title": "Zeus Living 3115 Tuscolana Way, San Jose, CA 95125, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "3115 Tuscolana Way, San Jose, CA 95125, USA",
                                     "country": "US",
@@ -159,7 +155,6 @@
                             "Group ID": "625782975dc2410008ff79a0",
                             "input_data": {
                                 "title": "Zeus Living 1423 Rosemary St, Menlo Park, CA 94025, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1423 Rosemary St, Menlo Park, CA 94025, USA",
                                     "country": "US",
@@ -191,7 +186,6 @@
                             "Group ID": "62d739cb39f68700084484ee",
                             "input_data": {
                                 "title": "Zeus Living 173 Summerwind Dr, Milpitas, CA 95035, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "173 Summerwind Dr, Milpitas, CA 95035, USA",
                                     "country": "US",
@@ -223,7 +217,6 @@
                             "Group ID": "625782785dc2410008ff799e",
                             "input_data": {
                                 "title": "Zeus Living 3038 Montevideo Dr, San Ramon, CA 94583, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "3038 Montevideo Dr, San Ramon, CA 94583, USA",
                                     "country": "US",
@@ -255,7 +248,6 @@
                             "Group ID": "62abab40f856280008bcdf94",
                             "input_data": {
                                 "title": "Zeus Living 4959 Rafton Dr, San Jose, CA 95124, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "4959 Rafton Dr, San Jose, CA 95124, USA",
                                     "country": "US",
@@ -287,7 +279,6 @@
                             "Group ID": "6257823f5dc2410008ff799c",
                             "input_data": {
                                 "title": "Zeus Living 37840 Hickory St, Newark, CA 94560, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "37840 Hickory St, Newark, CA 94560, USA",
                                     "country": "US",
@@ -319,7 +310,6 @@
                             "Group ID": "625772685dc2410008ff7998",
                             "input_data": {
                                 "title": "Zeus Living 2715 Lavender Terrace, San Jose, CA 95111, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "2715 Lavender Terrace, San Jose, CA 95111, USA",
                                     "country": "US",
@@ -351,7 +341,6 @@
                             "Group ID": "62aba964f856280008bcdf86",
                             "input_data": {
                                 "title": "Zeus Living 2700 Lavender Terrace, San Jose, CA 95111, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "2700 Lavender Terrace, San Jose, CA 95111, USA",
                                     "country": "US",
@@ -383,7 +372,6 @@
                             "Group ID": "62aba87cf856280008bcdf7e",
                             "input_data": {
                                 "title": "Zeus Living 1421 San Antonio St, Menlo Park, CA 94025, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1421 San Antonio St, Menlo Park, CA 94025, USA",
                                     "country": "US",
@@ -415,7 +403,6 @@
                             "Group ID": "62aba805f856280008bcdf7b",
                             "input_data": {
                                 "title": "Zeus Living 3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "3453 Baywood Terrace APT 104, Fremont, CA 94536, USA",
                                     "country": "US",
@@ -447,7 +434,6 @@
                             "Group ID": "62abaa57f856280008bcdf90",
                             "input_data": {
                                 "title": "Zeus Living 1099 White Peach Way, San Jose, CA 95133, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1099 White Peach Way, San Jose, CA 95133, USA",
                                     "country": "US",
@@ -479,7 +465,6 @@
                             "Group ID": "62aba8f9f856280008bcdf82",
                             "input_data": {
                                 "title": "Zeus Living 5 Heritage Pl, Menlo Park, CA 94025, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "5 Heritage Pl, Menlo Park, CA 94025, USA",
                                     "country": "US",
@@ -511,7 +496,6 @@
                             "Group ID": "62aba8b1f856280008bcdf80",
                             "input_data": {
                                 "title": "Zeus Living 1126 Roy Ave, San Jose, CA 95125, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1126 Roy Ave, San Jose, CA 95125, USA",
                                     "country": "US",
@@ -543,7 +527,6 @@
                             "Group ID": "62a947138371a7000716ff97",
                             "input_data": {
                                 "title": "Zeus Living 1595 Timber Creek Dr, San Jose, CA 95131, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1595 Timber Creek Dr, San Jose, CA 95131, USA",
                                     "country": "US",
@@ -575,7 +558,6 @@
                             "Group ID": "62aba9fdf856280008bcdf8c",
                             "input_data": {
                                 "title": "Zeus Living 411 Port Royal Ave, Foster City, CA 94404, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "411 Port Royal Ave, Foster City, CA 94404, USA",
                                     "country": "US",
@@ -607,7 +589,6 @@
                             "Group ID": "62bf39d0fc2ed30008b69450",
                             "input_data": {
                                 "title": "Zeus Living 818 W Remington Dr, Sunnyvale, CA 94087, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "818 W Remington Dr, Sunnyvale, CA 94087, USA",
                                     "country": "US",
@@ -639,7 +620,6 @@
                             "Group ID": "62ababb7f856280008bcdf98",
                             "input_data": {
                                 "title": "Zeus Living 36226 Crystal Springs Dr, Newark, CA 94560, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "36226 Crystal Springs Dr, Newark, CA 94560, USA",
                                     "country": "US",
@@ -671,7 +651,6 @@
                             "Group ID": "62abaac2f856280008bcdf92",
                             "input_data": {
                                 "title": "Zeus Living 723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "723 Lakehaven Dr, Sunnyvale, CA 94089, USA",
                                     "country": "US",
@@ -703,7 +682,6 @@
                             "Group ID": "62aba9d1f856280008bcdf8a",
                             "input_data": {
                                 "title": "Zeus Living 7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "7287 Sleepy Creek Dr, San Jose, CA 95120, USA",
                                     "country": "US",
@@ -735,7 +713,6 @@
                             "Group ID": "62bf3c62fc2ed30008b69452",
                             "input_data": {
                                 "title": "Zeus Living 10161 Danube Dr, Cupertino, CA 95014, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "10161 Danube Dr, Cupertino, CA 95014, USA",
                                     "country": "US",
@@ -767,7 +744,6 @@
                             "Group ID": "62bf3948fc2ed30008b6944e",
                             "input_data": {
                                 "title": "Zeus Living 1030 Corvette Dr, San Jose, CA 95129, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1030 Corvette Dr, San Jose, CA 95129, USA",
                                     "country": "US",
@@ -799,7 +775,6 @@
                             "Group ID": "62aba93bf856280008bcdf84",
                             "input_data": {
                                 "title": "Zeus Living 701 Castle Hill Rd, Redwood City, CA 94061, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "701 Castle Hill Rd, Redwood City, CA 94061, USA",
                                     "country": "US",
@@ -831,7 +806,6 @@
                             "Group ID": "62abaa2bf856280008bcdf8e",
                             "input_data": {
                                 "title": "Zeus Living 6275 Cottle Rd, San Jose, CA 95123, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "6275 Cottle Rd, San Jose, CA 95123, USA",
                                     "country": "US",
@@ -863,7 +837,6 @@
                             "Group ID": "62bf37bcfc2ed30008b6944c",
                             "input_data": {
                                 "title": "Zeus Living 1339 Muench Ct, San Jose, CA 95131, USA",
-                                "install_code": false,
                                 "location": {
                                     "address": "1339 Muench Ct, San Jose, CA 95131, USA",
                                     "country": "US",

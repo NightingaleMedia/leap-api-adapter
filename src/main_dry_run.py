@@ -1,13 +1,10 @@
 import json
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from script.call_google import call_google_maps
-from script.location_service import format_for_zen, get_location
-from script.config import SPREADSHEET_ID, SHEET
+from script.config import SHEET
 from script.write_to_sheet import write_to_sheet
 
-
+SPREADSHEET_ID = "1fuFt4_R-wH7hoCICOE8MlrpcOeEKlGMKNFS0VVvf_5c"
 RANGE_NAME = "MockMeterAssign!A:L"
 
 
