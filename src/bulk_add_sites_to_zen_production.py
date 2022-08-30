@@ -16,12 +16,12 @@ def get_token():
     global TOKEN
     if TOKEN == "":
         print("getting token")
-        url = f"{os.environ['ZEN_HQ_RELEASE']}/login"
+        url = f"{os.environ['ZEN_HQ_PRODUCTION']}/login"
         print(url)
         body = dict(
             {
-                "email": f"{os.environ.get('ZEN_HQ_RELEASE_USERNAME')}",
-                "password": f"{os.environ.get('ZEN_HQ_RELEASE_PASSWORD')}",
+                "email": f"{os.environ.get('ZEN_HQ_PRODUCTION_USERNAME')}",
+                "password": f"{os.environ.get('ZEN_HQ_PRODUCTION_PASSWORD')}",
             }
         )
 
@@ -39,18 +39,22 @@ headers = dict({"content-type": "application/json", "Authorization": f"Bearer {t
 
 def add_group_to_zen(group_data):
     print(f'adding {group_data["input_data"]["title"]} to zen')
-    url = f"{os.environ['ZEN_HQ_RELEASE']}/group"
+    url = f"{os.environ['ZEN_HQ_PRODUCTION']}/group"
     body = {"data": group_data["input_data"]}
     try:
+        # Add the group to zen prod
         result = requests.post(url, headers=headers, json=body, verify=False)
         print(result.status_code)
+        # resulting group id will be in response
         created = result.json()
         # created = {"data": {"id": "TEST", "title": "TEST"}}
+
+        # update a row in the spreadsheet to match group ID
         add_created_group_to_sheet(
             group_data,
             created_group_name=created["data"]["title"],
             created_group_id=created["data"]["id"],
-            SPREADSHEET_ID="1fuFt4_R-wH7hoCICOE8MlrpcOeEKlGMKNFS0VVvf_5c",
+            SPREADSHEET_ID="1NcBCbzBeQHMusSUQKkBEOqOYpBC_iwbZGeEhwYUf4tM",
             RANGE="ExportsFromScript!A:AA",
         )
 
@@ -63,7 +67,7 @@ def add_group_to_zen(group_data):
 
 def main():
 
-    f = open("mock_leap_export.json")
+    f = open("leap_export.json")
     data = json.load(f)
 
     for i, group in enumerate(data["data"]):
